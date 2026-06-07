@@ -1,4 +1,6 @@
 # LLMmerging
+<img width="537" height="619" alt="image" src="https://github.com/user-attachments/assets/431463da-068d-40bb-b9cc-fed7d4c4e97b" />
+
 # LLMmerging — слияние нейросетей без обучения: интеграция навыков vs мультиагент
 
 > Версия экспериментов: **Qwen2.5-1.5B-Instruct** (масштабирование на 3B — в планах).
