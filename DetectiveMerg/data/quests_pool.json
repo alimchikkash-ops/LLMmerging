@@ -1,0 +1,1682 @@
+[
+  {
+    "id": 0,
+    "scene": "A guest is found dead at Ravenhollow Manor. The body shows cherry-red skin and lividity. At the scene, the fatal wound angles from right to left. The suspects are:\n- Ms. Lowe, the mechanic, who is left-handed.\n- Mr. Thorne, the mechanic, who is right-handed.\n- Mr. Crane, the mechanic, who is right-handed.\n- Mr. Beck, the herbalist, who is left-handed.\n- Ms. Orr, the mechanic, who is right-handed.\n- Mr. Pike, the gamekeeper, who is left-handed.\n- Mrs. Dunn, the physician, who is left-handed.",
+    "q1_detective": "Clue: the fatal wound angles from right to left. By forensic deduction, what is true of the culprit?",
+    "a1_attr": "is left-handed",
+    "a1_key": "left",
+    "q2_medical": "A victim shows cherry-red skin and lividity. Which poison is this, and which occupation could obtain it?",
+    "a2_toxin": "carbon monoxide",
+    "a2_occ": "mechanic",
+    "q3_final": "Name the single culprit: the one suspect whose occupation could obtain the poison AND who matches the forensic clue.",
+    "a3_culprit": "Ms. Lowe",
+    "suspects": [
+      {
+        "name": "Ms. Lowe",
+        "occ": "mechanic",
+        "attr": true,
+        "desc": "is left-handed"
+      },
+      {
+        "name": "Mr. Thorne",
+        "occ": "mechanic",
+        "attr": false,
+        "desc": "is right-handed"
+      },
+      {
+        "name": "Mr. Crane",
+        "occ": "mechanic",
+        "attr": false,
+        "desc": "is right-handed"
+      },
+      {
+        "name": "Mr. Beck",
+        "occ": "herbalist",
+        "attr": true,
+        "desc": "is left-handed"
+      },
+      {
+        "name": "Ms. Orr",
+        "occ": "mechanic",
+        "attr": false,
+        "desc": "is right-handed"
+      },
+      {
+        "name": "Mr. Pike",
+        "occ": "gamekeeper",
+        "attr": true,
+        "desc": "is left-handed"
+      },
+      {
+        "name": "Mrs. Dunn",
+        "occ": "physician",
+        "attr": true,
+        "desc": "is left-handed"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "scene": "A guest is found dead at Ravenhollow Manor. The body shows cherry-red skin and lividity. At the scene, blood spatter reached the top of the wall. The suspects are:\n- Mrs. Frost, the mechanic, who is short.\n- Mrs. Vale, the photographer, who is unusually tall.\n- Mr. Pike, the gamekeeper, who is unusually tall.\n- Mr. Sable, the herbalist, who is unusually tall.\n- Mr. Voss, the mechanic, who is short.\n- Mrs. Dunn, the mechanic, who is unusually tall.\n- Mr. Thorne, the mechanic, who is short.",
+    "q1_detective": "Clue: blood spatter reached the top of the wall. By forensic deduction, what is true of the culprit?",
+    "a1_attr": "is unusually tall",
+    "a1_key": "tall",
+    "q2_medical": "A victim shows cherry-red skin and lividity. Which poison is this, and which occupation could obtain it?",
+    "a2_toxin": "carbon monoxide",
+    "a2_occ": "mechanic",
+    "q3_final": "Name the single culprit: the one suspect whose occupation could obtain the poison AND who matches the forensic clue.",
+    "a3_culprit": "Mrs. Dunn",
+    "suspects": [
+      {
+        "name": "Mrs. Frost",
+        "occ": "mechanic",
+        "attr": false,
+        "desc": "is short"
+      },
+      {
+        "name": "Mrs. Vale",
+        "occ": "photographer",
+        "attr": true,
+        "desc": "is unusually tall"
+      },
+      {
+        "name": "Mr. Pike",
+        "occ": "gamekeeper",
+        "attr": true,
+        "desc": "is unusually tall"
+      },
+      {
+        "name": "Mr. Sable",
+        "occ": "herbalist",
+        "attr": true,
+        "desc": "is unusually tall"
+      },
+      {
+        "name": "Mr. Voss",
+        "occ": "mechanic",
+        "attr": false,
+        "desc": "is short"
+      },
+      {
+        "name": "Mrs. Dunn",
+        "occ": "mechanic",
+        "attr": true,
+        "desc": "is unusually tall"
+      },
+      {
+        "name": "Mr. Thorne",
+        "occ": "mechanic",
+        "attr": false,
+        "desc": "is short"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "scene": "A guest is found dead at Ravenhollow Manor. The body shows cherry-red skin and lividity. At the scene, there was no sign of forced entry. The suspects are:\n- Mrs. Vale, the photographer, who had their own key to the house.\n- Mr. Thorne, the mechanic, who had to be let in.\n- Mrs. Frost, the mechanic, who had to be let in.\n- Ms. Wynn, the mechanic, who had their own key to the house.\n- Mr. Crane, the steward, who had their own key to the house.\n- Mrs. Dunn, the herbalist, who had their own key to the house.\n- Mr. Hale, the mechanic, who had to be let in.",
+    "q1_detective": "Clue: there was no sign of forced entry. By forensic deduction, what is true of the culprit?",
+    "a1_attr": "had their own key",
+    "a1_key": "key",
+    "q2_medical": "A victim shows cherry-red skin and lividity. Which poison is this, and which occupation could obtain it?",
+    "a2_toxin": "carbon monoxide",
+    "a2_occ": "mechanic",
+    "q3_final": "Name the single culprit: the one suspect whose occupation could obtain the poison AND who matches the forensic clue.",
+    "a3_culprit": "Ms. Wynn",
+    "suspects": [
+      {
+        "name": "Mrs. Vale",
+        "occ": "photographer",
+        "attr": true,
+        "desc": "had their own key to the house"
+      },
+      {
+        "name": "Mr. Thorne",
+        "occ": "mechanic",
+        "attr": false,
+        "desc": "had to be let in"
+      },
+      {
+        "name": "Mrs. Frost",
+        "occ": "mechanic",
+        "attr": false,
+        "desc": "had to be let in"
+      },
+      {
+        "name": "Ms. Wynn",
+        "occ": "mechanic",
+        "attr": true,
+        "desc": "had their own key to the house"
+      },
+      {
+        "name": "Mr. Crane",
+        "occ": "steward",
+        "attr": true,
+        "desc": "had their own key to the house"
+      },
+      {
+        "name": "Mrs. Dunn",
+        "occ": "herbalist",
+        "attr": true,
+        "desc": "had their own key to the house"
+      },
+      {
+        "name": "Mr. Hale",
+        "occ": "mechanic",
+        "attr": false,
+        "desc": "had to be let in"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "scene": "A guest is found dead at Ravenhollow Manor. The body shows cherry-red skin and lividity. At the scene, the safe was opened without any damage. The suspects are:\n- Ms. Wynn, the mechanic, who did not know the combination.\n- Mrs. Dunn, the physician, who knew the safe combination.\n- Mr. Crane, the apothecary, who knew the safe combination.\n- Ms. Reed, the mechanic, who did not know the combination.\n- Mr. Beck, the steward, who knew the safe combination.\n- Mrs. Vale, the mechanic, who knew the safe combination.\n- Mr. Hale, the mechanic, who did not know the combination.",
+    "q1_detective": "Clue: the safe was opened without any damage. By forensic deduction, what is true of the culprit?",
+    "a1_attr": "knew the combination",
+    "a1_key": "combination",
+    "q2_medical": "A victim shows cherry-red skin and lividity. Which poison is this, and which occupation could obtain it?",
+    "a2_toxin": "carbon monoxide",
+    "a2_occ": "mechanic",
+    "q3_final": "Name the single culprit: the one suspect whose occupation could obtain the poison AND who matches the forensic clue.",
+    "a3_culprit": "Mrs. Vale",
+    "suspects": [
+      {
+        "name": "Ms. Wynn",
+        "occ": "mechanic",
+        "attr": false,
+        "desc": "did not know the combination"
+      },
+      {
+        "name": "Mrs. Dunn",
+        "occ": "physician",
+        "attr": true,
+        "desc": "knew the safe combination"
+      },
+      {
+        "name": "Mr. Crane",
+        "occ": "apothecary",
+        "attr": true,
+        "desc": "knew the safe combination"
+      },
+      {
+        "name": "Ms. Reed",
+        "occ": "mechanic",
+        "attr": false,
+        "desc": "did not know the combination"
+      },
+      {
+        "name": "Mr. Beck",
+        "occ": "steward",
+        "attr": true,
+        "desc": "knew the safe combination"
+      },
+      {
+        "name": "Mrs. Vale",
+        "occ": "mechanic",
+        "attr": true,
+        "desc": "knew the safe combination"
+      },
+      {
+        "name": "Mr. Hale",
+        "occ": "mechanic",
+        "attr": false,
+        "desc": "did not know the combination"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "scene": "A guest is found dead at Ravenhollow Manor. The body shows cherry-red skin and lividity. At the scene, deep size-twelve footprints were left in the flowerbed. The suspects are:\n- Mr. Pike, the apothecary, who is a heavy-set person.\n- Mrs. Vale, the physician, who is a heavy-set person.\n- Mr. Thorne, the mechanic, who is slight of build.\n- Mrs. Dunn, the mechanic, who is slight of build.\n- Ms. Reed, the mechanic, who is slight of build.\n- Mr. Hale, the mechanic, who is a heavy-set person.\n- Mrs. Frost, the steward, who is a heavy-set person.",
+    "q1_detective": "Clue: deep size-twelve footprints were left in the flowerbed. By forensic deduction, what is true of the culprit?",
+    "a1_attr": "is heavy-set",
+    "a1_key": "heavy",
+    "q2_medical": "A victim shows cherry-red skin and lividity. Which poison is this, and which occupation could obtain it?",
+    "a2_toxin": "carbon monoxide",
+    "a2_occ": "mechanic",
+    "q3_final": "Name the single culprit: the one suspect whose occupation could obtain the poison AND who matches the forensic clue.",
+    "a3_culprit": "Mr. Hale",
+    "suspects": [
+      {
+        "name": "Mr. Pike",
+        "occ": "apothecary",
+        "attr": true,
+        "desc": "is a heavy-set person"
+      },
+      {
+        "name": "Mrs. Vale",
+        "occ": "physician",
+        "attr": true,
+        "desc": "is a heavy-set person"
+      },
+      {
+        "name": "Mr. Thorne",
+        "occ": "mechanic",
+        "attr": false,
+        "desc": "is slight of build"
+      },
+      {
+        "name": "Mrs. Dunn",
+        "occ": "mechanic",
+        "attr": false,
+        "desc": "is slight of build"
+      },
+      {
+        "name": "Ms. Reed",
+        "occ": "mechanic",
+        "attr": false,
+        "desc": "is slight of build"
+      },
+      {
+        "name": "Mr. Hale",
+        "occ": "mechanic",
+        "attr": true,
+        "desc": "is a heavy-set person"
+      },
+      {
+        "name": "Mrs. Frost",
+        "occ": "steward",
+        "attr": true,
+        "desc": "is a heavy-set person"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "scene": "A guest is found dead at Ravenhollow Manor. The body shows a bitter-almond odor on the breath. At the scene, the fatal wound angles from right to left. The suspects are:\n- Mr. Sable, the gamekeeper, who is left-handed.\n- Ms. Reed, the apothecary, who is left-handed.\n- Mr. Thorne, the photographer, who is right-handed.\n- Ms. Lowe, the photographer, who is left-handed.\n- Ms. Orr, the photographer, who is right-handed.\n- Mrs. Vale, the photographer, who is right-handed.\n- Mr. Beck, the steward, who is left-handed.",
+    "q1_detective": "Clue: the fatal wound angles from right to left. By forensic deduction, what is true of the culprit?",
+    "a1_attr": "is left-handed",
+    "a1_key": "left",
+    "q2_medical": "A victim shows a bitter-almond odor on the breath. Which poison is this, and which occupation could obtain it?",
+    "a2_toxin": "cyanide",
+    "a2_occ": "photographer",
+    "q3_final": "Name the single culprit: the one suspect whose occupation could obtain the poison AND who matches the forensic clue.",
+    "a3_culprit": "Ms. Lowe",
+    "suspects": [
+      {
+        "name": "Mr. Sable",
+        "occ": "gamekeeper",
+        "attr": true,
+        "desc": "is left-handed"
+      },
+      {
+        "name": "Ms. Reed",
+        "occ": "apothecary",
+        "attr": true,
+        "desc": "is left-handed"
+      },
+      {
+        "name": "Mr. Thorne",
+        "occ": "photographer",
+        "attr": false,
+        "desc": "is right-handed"
+      },
+      {
+        "name": "Ms. Lowe",
+        "occ": "photographer",
+        "attr": true,
+        "desc": "is left-handed"
+      },
+      {
+        "name": "Ms. Orr",
+        "occ": "photographer",
+        "attr": false,
+        "desc": "is right-handed"
+      },
+      {
+        "name": "Mrs. Vale",
+        "occ": "photographer",
+        "attr": false,
+        "desc": "is right-handed"
+      },
+      {
+        "name": "Mr. Beck",
+        "occ": "steward",
+        "attr": true,
+        "desc": "is left-handed"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "scene": "A guest is found dead at Ravenhollow Manor. The body shows a bitter-almond odor on the breath. At the scene, blood spatter reached the top of the wall. The suspects are:\n- Mr. Thorne, the gamekeeper, who is unusually tall.\n- Ms. Wynn, the steward, who is unusually tall.\n- Mr. Hale, the photographer, who is unusually tall.\n- Mr. Sable, the photographer, who is short.\n- Mrs. Frost, the valet, who is unusually tall.\n- Mr. Beck, the photographer, who is short.\n- Mrs. Vale, the photographer, who is short.",
+    "q1_detective": "Clue: blood spatter reached the top of the wall. By forensic deduction, what is true of the culprit?",
+    "a1_attr": "is unusually tall",
+    "a1_key": "tall",
+    "q2_medical": "A victim shows a bitter-almond odor on the breath. Which poison is this, and which occupation could obtain it?",
+    "a2_toxin": "cyanide",
+    "a2_occ": "photographer",
+    "q3_final": "Name the single culprit: the one suspect whose occupation could obtain the poison AND who matches the forensic clue.",
+    "a3_culprit": "Mr. Hale",
+    "suspects": [
+      {
+        "name": "Mr. Thorne",
+        "occ": "gamekeeper",
+        "attr": true,
+        "desc": "is unusually tall"
+      },
+      {
+        "name": "Ms. Wynn",
+        "occ": "steward",
+        "attr": true,
+        "desc": "is unusually tall"
+      },
+      {
+        "name": "Mr. Hale",
+        "occ": "photographer",
+        "attr": true,
+        "desc": "is unusually tall"
+      },
+      {
+        "name": "Mr. Sable",
+        "occ": "photographer",
+        "attr": false,
+        "desc": "is short"
+      },
+      {
+        "name": "Mrs. Frost",
+        "occ": "valet",
+        "attr": true,
+        "desc": "is unusually tall"
+      },
+      {
+        "name": "Mr. Beck",
+        "occ": "photographer",
+        "attr": false,
+        "desc": "is short"
+      },
+      {
+        "name": "Mrs. Vale",
+        "occ": "photographer",
+        "attr": false,
+        "desc": "is short"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "scene": "A guest is found dead at Ravenhollow Manor. The body shows a bitter-almond odor on the breath. At the scene, there was no sign of forced entry. The suspects are:\n- Mr. Beck, the valet, who had their own key to the house.\n- Mr. Sable, the photographer, who had to be let in.\n- Mr. Voss, the photographer, who had to be let in.\n- Mrs. Vale, the photographer, who had to be let in.\n- Mr. Pike, the footman, who had their own key to the house.\n- Ms. Reed, the photographer, who had their own key to the house.\n- Mrs. Frost, the physician, who had their own key to the house.",
+    "q1_detective": "Clue: there was no sign of forced entry. By forensic deduction, what is true of the culprit?",
+    "a1_attr": "had their own key",
+    "a1_key": "key",
+    "q2_medical": "A victim shows a bitter-almond odor on the breath. Which poison is this, and which occupation could obtain it?",
+    "a2_toxin": "cyanide",
+    "a2_occ": "photographer",
+    "q3_final": "Name the single culprit: the one suspect whose occupation could obtain the poison AND who matches the forensic clue.",
+    "a3_culprit": "Ms. Reed",
+    "suspects": [
+      {
+        "name": "Mr. Beck",
+        "occ": "valet",
+        "attr": true,
+        "desc": "had their own key to the house"
+      },
+      {
+        "name": "Mr. Sable",
+        "occ": "photographer",
+        "attr": false,
+        "desc": "had to be let in"
+      },
+      {
+        "name": "Mr. Voss",
+        "occ": "photographer",
+        "attr": false,
+        "desc": "had to be let in"
+      },
+      {
+        "name": "Mrs. Vale",
+        "occ": "photographer",
+        "attr": false,
+        "desc": "had to be let in"
+      },
+      {
+        "name": "Mr. Pike",
+        "occ": "footman",
+        "attr": true,
+        "desc": "had their own key to the house"
+      },
+      {
+        "name": "Ms. Reed",
+        "occ": "photographer",
+        "attr": true,
+        "desc": "had their own key to the house"
+      },
+      {
+        "name": "Mrs. Frost",
+        "occ": "physician",
+        "attr": true,
+        "desc": "had their own key to the house"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "scene": "A guest is found dead at Ravenhollow Manor. The body shows a bitter-almond odor on the breath. At the scene, the safe was opened without any damage. The suspects are:\n- Mr. Pike, the photographer, who knew the safe combination.\n- Ms. Wynn, the physician, who knew the safe combination.\n- Mr. Beck, the photographer, who did not know the combination.\n- Mr. Thorne, the butler, who knew the safe combination.\n- Mr. Hale, the photographer, who did not know the combination.\n- Mrs. Vale, the photographer, who did not know the combination.\n- Mr. Voss, the steward, who knew the safe combination.",
+    "q1_detective": "Clue: the safe was opened without any damage. By forensic deduction, what is true of the culprit?",
+    "a1_attr": "knew the combination",
+    "a1_key": "combination",
+    "q2_medical": "A victim shows a bitter-almond odor on the breath. Which poison is this, and which occupation could obtain it?",
+    "a2_toxin": "cyanide",
+    "a2_occ": "photographer",
+    "q3_final": "Name the single culprit: the one suspect whose occupation could obtain the poison AND who matches the forensic clue.",
+    "a3_culprit": "Mr. Pike",
+    "suspects": [
+      {
+        "name": "Mr. Pike",
+        "occ": "photographer",
+        "attr": true,
+        "desc": "knew the safe combination"
+      },
+      {
+        "name": "Ms. Wynn",
+        "occ": "physician",
+        "attr": true,
+        "desc": "knew the safe combination"
+      },
+      {
+        "name": "Mr. Beck",
+        "occ": "photographer",
+        "attr": false,
+        "desc": "did not know the combination"
+      },
+      {
+        "name": "Mr. Thorne",
+        "occ": "butler",
+        "attr": true,
+        "desc": "knew the safe combination"
+      },
+      {
+        "name": "Mr. Hale",
+        "occ": "photographer",
+        "attr": false,
+        "desc": "did not know the combination"
+      },
+      {
+        "name": "Mrs. Vale",
+        "occ": "photographer",
+        "attr": false,
+        "desc": "did not know the combination"
+      },
+      {
+        "name": "Mr. Voss",
+        "occ": "steward",
+        "attr": true,
+        "desc": "knew the safe combination"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "scene": "A guest is found dead at Ravenhollow Manor. The body shows a bitter-almond odor on the breath. At the scene, deep size-twelve footprints were left in the flowerbed. The suspects are:\n- Mrs. Dunn, the photographer, who is slight of build.\n- Mr. Thorne, the footman, who is a heavy-set person.\n- Mr. Beck, the physician, who is a heavy-set person.\n- Mr. Sable, the photographer, who is slight of build.\n- Mr. Crane, the photographer, who is a heavy-set person.\n- Mr. Pike, the butler, who is a heavy-set person.\n- Mr. Voss, the photographer, who is slight of build.",
+    "q1_detective": "Clue: deep size-twelve footprints were left in the flowerbed. By forensic deduction, what is true of the culprit?",
+    "a1_attr": "is heavy-set",
+    "a1_key": "heavy",
+    "q2_medical": "A victim shows a bitter-almond odor on the breath. Which poison is this, and which occupation could obtain it?",
+    "a2_toxin": "cyanide",
+    "a2_occ": "photographer",
+    "q3_final": "Name the single culprit: the one suspect whose occupation could obtain the poison AND who matches the forensic clue.",
+    "a3_culprit": "Mr. Crane",
+    "suspects": [
+      {
+        "name": "Mrs. Dunn",
+        "occ": "photographer",
+        "attr": false,
+        "desc": "is slight of build"
+      },
+      {
+        "name": "Mr. Thorne",
+        "occ": "footman",
+        "attr": true,
+        "desc": "is a heavy-set person"
+      },
+      {
+        "name": "Mr. Beck",
+        "occ": "physician",
+        "attr": true,
+        "desc": "is a heavy-set person"
+      },
+      {
+        "name": "Mr. Sable",
+        "occ": "photographer",
+        "attr": false,
+        "desc": "is slight of build"
+      },
+      {
+        "name": "Mr. Crane",
+        "occ": "photographer",
+        "attr": true,
+        "desc": "is a heavy-set person"
+      },
+      {
+        "name": "Mr. Pike",
+        "occ": "butler",
+        "attr": true,
+        "desc": "is a heavy-set person"
+      },
+      {
+        "name": "Mr. Voss",
+        "occ": "photographer",
+        "attr": false,
+        "desc": "is slight of build"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "scene": "A guest is found dead at Ravenhollow Manor. The body shows a garlic odor and white nail bands. At the scene, the fatal wound angles from right to left. The suspects are:\n- Mrs. Dunn, the photographer, who is left-handed.\n- Mr. Pike, the apothecary, who is left-handed.\n- Ms. Wynn, the gamekeeper, who is left-handed.\n- Ms. Reed, the apothecary, who is right-handed.\n- Mr. Voss, the apothecary, who is right-handed.\n- Ms. Lowe, the apothecary, who is right-handed.\n- Mr. Hale, the herbalist, who is left-handed.",
+    "q1_detective": "Clue: the fatal wound angles from right to left. By forensic deduction, what is true of the culprit?",
+    "a1_attr": "is left-handed",
+    "a1_key": "left",
+    "q2_medical": "A victim shows a garlic odor and white nail bands. Which poison is this, and which occupation could obtain it?",
+    "a2_toxin": "arsenic",
+    "a2_occ": "apothecary",
+    "q3_final": "Name the single culprit: the one suspect whose occupation could obtain the poison AND who matches the forensic clue.",
+    "a3_culprit": "Mr. Pike",
+    "suspects": [
+      {
+        "name": "Mrs. Dunn",
+        "occ": "photographer",
+        "attr": true,
+        "desc": "is left-handed"
+      },
+      {
+        "name": "Mr. Pike",
+        "occ": "apothecary",
+        "attr": true,
+        "desc": "is left-handed"
+      },
+      {
+        "name": "Ms. Wynn",
+        "occ": "gamekeeper",
+        "attr": true,
+        "desc": "is left-handed"
+      },
+      {
+        "name": "Ms. Reed",
+        "occ": "apothecary",
+        "attr": false,
+        "desc": "is right-handed"
+      },
+      {
+        "name": "Mr. Voss",
+        "occ": "apothecary",
+        "attr": false,
+        "desc": "is right-handed"
+      },
+      {
+        "name": "Ms. Lowe",
+        "occ": "apothecary",
+        "attr": false,
+        "desc": "is right-handed"
+      },
+      {
+        "name": "Mr. Hale",
+        "occ": "herbalist",
+        "attr": true,
+        "desc": "is left-handed"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "scene": "A guest is found dead at Ravenhollow Manor. The body shows a garlic odor and white nail bands. At the scene, blood spatter reached the top of the wall. The suspects are:\n- Mr. Crane, the mechanic, who is unusually tall.\n- Mrs. Dunn, the valet, who is unusually tall.\n- Ms. Reed, the apothecary, who is short.\n- Mr. Hale, the apothecary, who is unusually tall.\n- Mr. Pike, the butler, who is unusually tall.\n- Ms. Orr, the apothecary, who is short.\n- Mr. Sable, the apothecary, who is short.",
+    "q1_detective": "Clue: blood spatter reached the top of the wall. By forensic deduction, what is true of the culprit?",
+    "a1_attr": "is unusually tall",
+    "a1_key": "tall",
+    "q2_medical": "A victim shows a garlic odor and white nail bands. Which poison is this, and which occupation could obtain it?",
+    "a2_toxin": "arsenic",
+    "a2_occ": "apothecary",
+    "q3_final": "Name the single culprit: the one suspect whose occupation could obtain the poison AND who matches the forensic clue.",
+    "a3_culprit": "Mr. Hale",
+    "suspects": [
+      {
+        "name": "Mr. Crane",
+        "occ": "mechanic",
+        "attr": true,
+        "desc": "is unusually tall"
+      },
+      {
+        "name": "Mrs. Dunn",
+        "occ": "valet",
+        "attr": true,
+        "desc": "is unusually tall"
+      },
+      {
+        "name": "Ms. Reed",
+        "occ": "apothecary",
+        "attr": false,
+        "desc": "is short"
+      },
+      {
+        "name": "Mr. Hale",
+        "occ": "apothecary",
+        "attr": true,
+        "desc": "is unusually tall"
+      },
+      {
+        "name": "Mr. Pike",
+        "occ": "butler",
+        "attr": true,
+        "desc": "is unusually tall"
+      },
+      {
+        "name": "Ms. Orr",
+        "occ": "apothecary",
+        "attr": false,
+        "desc": "is short"
+      },
+      {
+        "name": "Mr. Sable",
+        "occ": "apothecary",
+        "attr": false,
+        "desc": "is short"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "scene": "A guest is found dead at Ravenhollow Manor. The body shows a garlic odor and white nail bands. At the scene, there was no sign of forced entry. The suspects are:\n- Mr. Crane, the mechanic, who had their own key to the house.\n- Mrs. Vale, the apothecary, who had their own key to the house.\n- Ms. Wynn, the butler, who had their own key to the house.\n- Mr. Thorne, the steward, who had their own key to the house.\n- Ms. Lowe, the apothecary, who had to be let in.\n- Ms. Reed, the apothecary, who had to be let in.\n- Mrs. Frost, the apothecary, who had to be let in.",
+    "q1_detective": "Clue: there was no sign of forced entry. By forensic deduction, what is true of the culprit?",
+    "a1_attr": "had their own key",
+    "a1_key": "key",
+    "q2_medical": "A victim shows a garlic odor and white nail bands. Which poison is this, and which occupation could obtain it?",
+    "a2_toxin": "arsenic",
+    "a2_occ": "apothecary",
+    "q3_final": "Name the single culprit: the one suspect whose occupation could obtain the poison AND who matches the forensic clue.",
+    "a3_culprit": "Mrs. Vale",
+    "suspects": [
+      {
+        "name": "Mr. Crane",
+        "occ": "mechanic",
+        "attr": true,
+        "desc": "had their own key to the house"
+      },
+      {
+        "name": "Mrs. Vale",
+        "occ": "apothecary",
+        "attr": true,
+        "desc": "had their own key to the house"
+      },
+      {
+        "name": "Ms. Wynn",
+        "occ": "butler",
+        "attr": true,
+        "desc": "had their own key to the house"
+      },
+      {
+        "name": "Mr. Thorne",
+        "occ": "steward",
+        "attr": true,
+        "desc": "had their own key to the house"
+      },
+      {
+        "name": "Ms. Lowe",
+        "occ": "apothecary",
+        "attr": false,
+        "desc": "had to be let in"
+      },
+      {
+        "name": "Ms. Reed",
+        "occ": "apothecary",
+        "attr": false,
+        "desc": "had to be let in"
+      },
+      {
+        "name": "Mrs. Frost",
+        "occ": "apothecary",
+        "attr": false,
+        "desc": "had to be let in"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "scene": "A guest is found dead at Ravenhollow Manor. The body shows a garlic odor and white nail bands. At the scene, the safe was opened without any damage. The suspects are:\n- Mr. Thorne, the apothecary, who did not know the combination.\n- Ms. Wynn, the footman, who knew the safe combination.\n- Mr. Hale, the herbalist, who knew the safe combination.\n- Ms. Orr, the apothecary, who did not know the combination.\n- Mrs. Frost, the apothecary, who did not know the combination.\n- Ms. Lowe, the butler, who knew the safe combination.\n- Mr. Beck, the apothecary, who knew the safe combination.",
+    "q1_detective": "Clue: the safe was opened without any damage. By forensic deduction, what is true of the culprit?",
+    "a1_attr": "knew the combination",
+    "a1_key": "combination",
+    "q2_medical": "A victim shows a garlic odor and white nail bands. Which poison is this, and which occupation could obtain it?",
+    "a2_toxin": "arsenic",
+    "a2_occ": "apothecary",
+    "q3_final": "Name the single culprit: the one suspect whose occupation could obtain the poison AND who matches the forensic clue.",
+    "a3_culprit": "Mr. Beck",
+    "suspects": [
+      {
+        "name": "Mr. Thorne",
+        "occ": "apothecary",
+        "attr": false,
+        "desc": "did not know the combination"
+      },
+      {
+        "name": "Ms. Wynn",
+        "occ": "footman",
+        "attr": true,
+        "desc": "knew the safe combination"
+      },
+      {
+        "name": "Mr. Hale",
+        "occ": "herbalist",
+        "attr": true,
+        "desc": "knew the safe combination"
+      },
+      {
+        "name": "Ms. Orr",
+        "occ": "apothecary",
+        "attr": false,
+        "desc": "did not know the combination"
+      },
+      {
+        "name": "Mrs. Frost",
+        "occ": "apothecary",
+        "attr": false,
+        "desc": "did not know the combination"
+      },
+      {
+        "name": "Ms. Lowe",
+        "occ": "butler",
+        "attr": true,
+        "desc": "knew the safe combination"
+      },
+      {
+        "name": "Mr. Beck",
+        "occ": "apothecary",
+        "attr": true,
+        "desc": "knew the safe combination"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "scene": "A guest is found dead at Ravenhollow Manor. The body shows a garlic odor and white nail bands. At the scene, deep size-twelve footprints were left in the flowerbed. The suspects are:\n- Mrs. Frost, the apothecary, who is a heavy-set person.\n- Mr. Sable, the steward, who is a heavy-set person.\n- Ms. Wynn, the mechanic, who is a heavy-set person.\n- Mrs. Dunn, the apothecary, who is slight of build.\n- Mr. Beck, the apothecary, who is slight of build.\n- Ms. Reed, the apothecary, who is slight of build.\n- Ms. Orr, the footman, who is a heavy-set person.",
+    "q1_detective": "Clue: deep size-twelve footprints were left in the flowerbed. By forensic deduction, what is true of the culprit?",
+    "a1_attr": "is heavy-set",
+    "a1_key": "heavy",
+    "q2_medical": "A victim shows a garlic odor and white nail bands. Which poison is this, and which occupation could obtain it?",
+    "a2_toxin": "arsenic",
+    "a2_occ": "apothecary",
+    "q3_final": "Name the single culprit: the one suspect whose occupation could obtain the poison AND who matches the forensic clue.",
+    "a3_culprit": "Mrs. Frost",
+    "suspects": [
+      {
+        "name": "Mrs. Frost",
+        "occ": "apothecary",
+        "attr": true,
+        "desc": "is a heavy-set person"
+      },
+      {
+        "name": "Mr. Sable",
+        "occ": "steward",
+        "attr": true,
+        "desc": "is a heavy-set person"
+      },
+      {
+        "name": "Ms. Wynn",
+        "occ": "mechanic",
+        "attr": true,
+        "desc": "is a heavy-set person"
+      },
+      {
+        "name": "Mrs. Dunn",
+        "occ": "apothecary",
+        "attr": false,
+        "desc": "is slight of build"
+      },
+      {
+        "name": "Mr. Beck",
+        "occ": "apothecary",
+        "attr": false,
+        "desc": "is slight of build"
+      },
+      {
+        "name": "Ms. Reed",
+        "occ": "apothecary",
+        "attr": false,
+        "desc": "is slight of build"
+      },
+      {
+        "name": "Ms. Orr",
+        "occ": "footman",
+        "attr": true,
+        "desc": "is a heavy-set person"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "scene": "A guest is found dead at Ravenhollow Manor. The body shows pinpoint (constricted) pupils. At the scene, the fatal wound angles from right to left. The suspects are:\n- Ms. Wynn, the physician, who is left-handed.\n- Mr. Voss, the steward, who is left-handed.\n- Mr. Sable, the physician, who is right-handed.\n- Ms. Orr, the physician, who is right-handed.\n- Mr. Thorne, the valet, who is left-handed.\n- Mr. Pike, the footman, who is left-handed.\n- Mrs. Vale, the physician, who is right-handed.",
+    "q1_detective": "Clue: the fatal wound angles from right to left. By forensic deduction, what is true of the culprit?",
+    "a1_attr": "is left-handed",
+    "a1_key": "left",
+    "q2_medical": "A victim shows pinpoint (constricted) pupils. Which poison is this, and which occupation could obtain it?",
+    "a2_toxin": "morphine",
+    "a2_occ": "physician",
+    "q3_final": "Name the single culprit: the one suspect whose occupation could obtain the poison AND who matches the forensic clue.",
+    "a3_culprit": "Ms. Wynn",
+    "suspects": [
+      {
+        "name": "Ms. Wynn",
+        "occ": "physician",
+        "attr": true,
+        "desc": "is left-handed"
+      },
+      {
+        "name": "Mr. Voss",
+        "occ": "steward",
+        "attr": true,
+        "desc": "is left-handed"
+      },
+      {
+        "name": "Mr. Sable",
+        "occ": "physician",
+        "attr": false,
+        "desc": "is right-handed"
+      },
+      {
+        "name": "Ms. Orr",
+        "occ": "physician",
+        "attr": false,
+        "desc": "is right-handed"
+      },
+      {
+        "name": "Mr. Thorne",
+        "occ": "valet",
+        "attr": true,
+        "desc": "is left-handed"
+      },
+      {
+        "name": "Mr. Pike",
+        "occ": "footman",
+        "attr": true,
+        "desc": "is left-handed"
+      },
+      {
+        "name": "Mrs. Vale",
+        "occ": "physician",
+        "attr": false,
+        "desc": "is right-handed"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "scene": "A guest is found dead at Ravenhollow Manor. The body shows pinpoint (constricted) pupils. At the scene, blood spatter reached the top of the wall. The suspects are:\n- Mr. Sable, the steward, who is unusually tall.\n- Mr. Pike, the gamekeeper, who is unusually tall.\n- Mr. Crane, the physician, who is short.\n- Mrs. Vale, the photographer, who is unusually tall.\n- Ms. Lowe, the physician, who is short.\n- Mr. Hale, the physician, who is short.\n- Ms. Wynn, the physician, who is unusually tall.",
+    "q1_detective": "Clue: blood spatter reached the top of the wall. By forensic deduction, what is true of the culprit?",
+    "a1_attr": "is unusually tall",
+    "a1_key": "tall",
+    "q2_medical": "A victim shows pinpoint (constricted) pupils. Which poison is this, and which occupation could obtain it?",
+    "a2_toxin": "morphine",
+    "a2_occ": "physician",
+    "q3_final": "Name the single culprit: the one suspect whose occupation could obtain the poison AND who matches the forensic clue.",
+    "a3_culprit": "Ms. Wynn",
+    "suspects": [
+      {
+        "name": "Mr. Sable",
+        "occ": "steward",
+        "attr": true,
+        "desc": "is unusually tall"
+      },
+      {
+        "name": "Mr. Pike",
+        "occ": "gamekeeper",
+        "attr": true,
+        "desc": "is unusually tall"
+      },
+      {
+        "name": "Mr. Crane",
+        "occ": "physician",
+        "attr": false,
+        "desc": "is short"
+      },
+      {
+        "name": "Mrs. Vale",
+        "occ": "photographer",
+        "attr": true,
+        "desc": "is unusually tall"
+      },
+      {
+        "name": "Ms. Lowe",
+        "occ": "physician",
+        "attr": false,
+        "desc": "is short"
+      },
+      {
+        "name": "Mr. Hale",
+        "occ": "physician",
+        "attr": false,
+        "desc": "is short"
+      },
+      {
+        "name": "Ms. Wynn",
+        "occ": "physician",
+        "attr": true,
+        "desc": "is unusually tall"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "scene": "A guest is found dead at Ravenhollow Manor. The body shows pinpoint (constricted) pupils. At the scene, there was no sign of forced entry. The suspects are:\n- Mr. Hale, the valet, who had their own key to the house.\n- Ms. Orr, the steward, who had their own key to the house.\n- Mrs. Frost, the physician, who had to be let in.\n- Ms. Wynn, the physician, who had to be let in.\n- Ms. Lowe, the physician, who had to be let in.\n- Ms. Reed, the physician, who had their own key to the house.\n- Mrs. Vale, the herbalist, who had their own key to the house.",
+    "q1_detective": "Clue: there was no sign of forced entry. By forensic deduction, what is true of the culprit?",
+    "a1_attr": "had their own key",
+    "a1_key": "key",
+    "q2_medical": "A victim shows pinpoint (constricted) pupils. Which poison is this, and which occupation could obtain it?",
+    "a2_toxin": "morphine",
+    "a2_occ": "physician",
+    "q3_final": "Name the single culprit: the one suspect whose occupation could obtain the poison AND who matches the forensic clue.",
+    "a3_culprit": "Ms. Reed",
+    "suspects": [
+      {
+        "name": "Mr. Hale",
+        "occ": "valet",
+        "attr": true,
+        "desc": "had their own key to the house"
+      },
+      {
+        "name": "Ms. Orr",
+        "occ": "steward",
+        "attr": true,
+        "desc": "had their own key to the house"
+      },
+      {
+        "name": "Mrs. Frost",
+        "occ": "physician",
+        "attr": false,
+        "desc": "had to be let in"
+      },
+      {
+        "name": "Ms. Wynn",
+        "occ": "physician",
+        "attr": false,
+        "desc": "had to be let in"
+      },
+      {
+        "name": "Ms. Lowe",
+        "occ": "physician",
+        "attr": false,
+        "desc": "had to be let in"
+      },
+      {
+        "name": "Ms. Reed",
+        "occ": "physician",
+        "attr": true,
+        "desc": "had their own key to the house"
+      },
+      {
+        "name": "Mrs. Vale",
+        "occ": "herbalist",
+        "attr": true,
+        "desc": "had their own key to the house"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "scene": "A guest is found dead at Ravenhollow Manor. The body shows pinpoint (constricted) pupils. At the scene, the safe was opened without any damage. The suspects are:\n- Mr. Pike, the physician, who did not know the combination.\n- Ms. Orr, the footman, who knew the safe combination.\n- Mr. Thorne, the physician, who did not know the combination.\n- Mr. Beck, the physician, who did not know the combination.\n- Mr. Crane, the gamekeeper, who knew the safe combination.\n- Mrs. Vale, the photographer, who knew the safe combination.\n- Mr. Hale, the physician, who knew the safe combination.",
+    "q1_detective": "Clue: the safe was opened without any damage. By forensic deduction, what is true of the culprit?",
+    "a1_attr": "knew the combination",
+    "a1_key": "combination",
+    "q2_medical": "A victim shows pinpoint (constricted) pupils. Which poison is this, and which occupation could obtain it?",
+    "a2_toxin": "morphine",
+    "a2_occ": "physician",
+    "q3_final": "Name the single culprit: the one suspect whose occupation could obtain the poison AND who matches the forensic clue.",
+    "a3_culprit": "Mr. Hale",
+    "suspects": [
+      {
+        "name": "Mr. Pike",
+        "occ": "physician",
+        "attr": false,
+        "desc": "did not know the combination"
+      },
+      {
+        "name": "Ms. Orr",
+        "occ": "footman",
+        "attr": true,
+        "desc": "knew the safe combination"
+      },
+      {
+        "name": "Mr. Thorne",
+        "occ": "physician",
+        "attr": false,
+        "desc": "did not know the combination"
+      },
+      {
+        "name": "Mr. Beck",
+        "occ": "physician",
+        "attr": false,
+        "desc": "did not know the combination"
+      },
+      {
+        "name": "Mr. Crane",
+        "occ": "gamekeeper",
+        "attr": true,
+        "desc": "knew the safe combination"
+      },
+      {
+        "name": "Mrs. Vale",
+        "occ": "photographer",
+        "attr": true,
+        "desc": "knew the safe combination"
+      },
+      {
+        "name": "Mr. Hale",
+        "occ": "physician",
+        "attr": true,
+        "desc": "knew the safe combination"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "scene": "A guest is found dead at Ravenhollow Manor. The body shows pinpoint (constricted) pupils. At the scene, deep size-twelve footprints were left in the flowerbed. The suspects are:\n- Ms. Reed, the physician, who is slight of build.\n- Ms. Wynn, the herbalist, who is a heavy-set person.\n- Ms. Orr, the physician, who is a heavy-set person.\n- Mr. Hale, the gamekeeper, who is a heavy-set person.\n- Ms. Lowe, the physician, who is slight of build.\n- Mr. Pike, the physician, who is slight of build.\n- Mr. Voss, the butler, who is a heavy-set person.",
+    "q1_detective": "Clue: deep size-twelve footprints were left in the flowerbed. By forensic deduction, what is true of the culprit?",
+    "a1_attr": "is heavy-set",
+    "a1_key": "heavy",
+    "q2_medical": "A victim shows pinpoint (constricted) pupils. Which poison is this, and which occupation could obtain it?",
+    "a2_toxin": "morphine",
+    "a2_occ": "physician",
+    "q3_final": "Name the single culprit: the one suspect whose occupation could obtain the poison AND who matches the forensic clue.",
+    "a3_culprit": "Ms. Orr",
+    "suspects": [
+      {
+        "name": "Ms. Reed",
+        "occ": "physician",
+        "attr": false,
+        "desc": "is slight of build"
+      },
+      {
+        "name": "Ms. Wynn",
+        "occ": "herbalist",
+        "attr": true,
+        "desc": "is a heavy-set person"
+      },
+      {
+        "name": "Ms. Orr",
+        "occ": "physician",
+        "attr": true,
+        "desc": "is a heavy-set person"
+      },
+      {
+        "name": "Mr. Hale",
+        "occ": "gamekeeper",
+        "attr": true,
+        "desc": "is a heavy-set person"
+      },
+      {
+        "name": "Ms. Lowe",
+        "occ": "physician",
+        "attr": false,
+        "desc": "is slight of build"
+      },
+      {
+        "name": "Mr. Pike",
+        "occ": "physician",
+        "attr": false,
+        "desc": "is slight of build"
+      },
+      {
+        "name": "Mr. Voss",
+        "occ": "butler",
+        "attr": true,
+        "desc": "is a heavy-set person"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "scene": "A guest is found dead at Ravenhollow Manor. The body shows violent convulsions and an arched back. At the scene, the fatal wound angles from right to left. The suspects are:\n- Mr. Hale, the herbalist, who is left-handed.\n- Mr. Pike, the gamekeeper, who is right-handed.\n- Mr. Voss, the footman, who is left-handed.\n- Mr. Sable, the gamekeeper, who is right-handed.\n- Mrs. Dunn, the gamekeeper, who is left-handed.\n- Ms. Lowe, the butler, who is left-handed.\n- Ms. Orr, the gamekeeper, who is right-handed.",
+    "q1_detective": "Clue: the fatal wound angles from right to left. By forensic deduction, what is true of the culprit?",
+    "a1_attr": "is left-handed",
+    "a1_key": "left",
+    "q2_medical": "A victim shows violent convulsions and an arched back. Which poison is this, and which occupation could obtain it?",
+    "a2_toxin": "strychnine",
+    "a2_occ": "gamekeeper",
+    "q3_final": "Name the single culprit: the one suspect whose occupation could obtain the poison AND who matches the forensic clue.",
+    "a3_culprit": "Mrs. Dunn",
+    "suspects": [
+      {
+        "name": "Mr. Hale",
+        "occ": "herbalist",
+        "attr": true,
+        "desc": "is left-handed"
+      },
+      {
+        "name": "Mr. Pike",
+        "occ": "gamekeeper",
+        "attr": false,
+        "desc": "is right-handed"
+      },
+      {
+        "name": "Mr. Voss",
+        "occ": "footman",
+        "attr": true,
+        "desc": "is left-handed"
+      },
+      {
+        "name": "Mr. Sable",
+        "occ": "gamekeeper",
+        "attr": false,
+        "desc": "is right-handed"
+      },
+      {
+        "name": "Mrs. Dunn",
+        "occ": "gamekeeper",
+        "attr": true,
+        "desc": "is left-handed"
+      },
+      {
+        "name": "Ms. Lowe",
+        "occ": "butler",
+        "attr": true,
+        "desc": "is left-handed"
+      },
+      {
+        "name": "Ms. Orr",
+        "occ": "gamekeeper",
+        "attr": false,
+        "desc": "is right-handed"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "scene": "A guest is found dead at Ravenhollow Manor. The body shows violent convulsions and an arched back. At the scene, blood spatter reached the top of the wall. The suspects are:\n- Mr. Hale, the gamekeeper, who is short.\n- Mr. Thorne, the herbalist, who is unusually tall.\n- Mr. Beck, the gamekeeper, who is short.\n- Mr. Crane, the steward, who is unusually tall.\n- Ms. Reed, the valet, who is unusually tall.\n- Mr. Sable, the gamekeeper, who is short.\n- Ms. Orr, the gamekeeper, who is unusually tall.",
+    "q1_detective": "Clue: blood spatter reached the top of the wall. By forensic deduction, what is true of the culprit?",
+    "a1_attr": "is unusually tall",
+    "a1_key": "tall",
+    "q2_medical": "A victim shows violent convulsions and an arched back. Which poison is this, and which occupation could obtain it?",
+    "a2_toxin": "strychnine",
+    "a2_occ": "gamekeeper",
+    "q3_final": "Name the single culprit: the one suspect whose occupation could obtain the poison AND who matches the forensic clue.",
+    "a3_culprit": "Ms. Orr",
+    "suspects": [
+      {
+        "name": "Mr. Hale",
+        "occ": "gamekeeper",
+        "attr": false,
+        "desc": "is short"
+      },
+      {
+        "name": "Mr. Thorne",
+        "occ": "herbalist",
+        "attr": true,
+        "desc": "is unusually tall"
+      },
+      {
+        "name": "Mr. Beck",
+        "occ": "gamekeeper",
+        "attr": false,
+        "desc": "is short"
+      },
+      {
+        "name": "Mr. Crane",
+        "occ": "steward",
+        "attr": true,
+        "desc": "is unusually tall"
+      },
+      {
+        "name": "Ms. Reed",
+        "occ": "valet",
+        "attr": true,
+        "desc": "is unusually tall"
+      },
+      {
+        "name": "Mr. Sable",
+        "occ": "gamekeeper",
+        "attr": false,
+        "desc": "is short"
+      },
+      {
+        "name": "Ms. Orr",
+        "occ": "gamekeeper",
+        "attr": true,
+        "desc": "is unusually tall"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "scene": "A guest is found dead at Ravenhollow Manor. The body shows violent convulsions and an arched back. At the scene, there was no sign of forced entry. The suspects are:\n- Mr. Crane, the gamekeeper, who had to be let in.\n- Mr. Hale, the gamekeeper, who had their own key to the house.\n- Mr. Voss, the butler, who had their own key to the house.\n- Mr. Thorne, the mechanic, who had their own key to the house.\n- Ms. Lowe, the gamekeeper, who had to be let in.\n- Ms. Orr, the gamekeeper, who had to be let in.\n- Mr. Beck, the footman, who had their own key to the house.",
+    "q1_detective": "Clue: there was no sign of forced entry. By forensic deduction, what is true of the culprit?",
+    "a1_attr": "had their own key",
+    "a1_key": "key",
+    "q2_medical": "A victim shows violent convulsions and an arched back. Which poison is this, and which occupation could obtain it?",
+    "a2_toxin": "strychnine",
+    "a2_occ": "gamekeeper",
+    "q3_final": "Name the single culprit: the one suspect whose occupation could obtain the poison AND who matches the forensic clue.",
+    "a3_culprit": "Mr. Hale",
+    "suspects": [
+      {
+        "name": "Mr. Crane",
+        "occ": "gamekeeper",
+        "attr": false,
+        "desc": "had to be let in"
+      },
+      {
+        "name": "Mr. Hale",
+        "occ": "gamekeeper",
+        "attr": true,
+        "desc": "had their own key to the house"
+      },
+      {
+        "name": "Mr. Voss",
+        "occ": "butler",
+        "attr": true,
+        "desc": "had their own key to the house"
+      },
+      {
+        "name": "Mr. Thorne",
+        "occ": "mechanic",
+        "attr": true,
+        "desc": "had their own key to the house"
+      },
+      {
+        "name": "Ms. Lowe",
+        "occ": "gamekeeper",
+        "attr": false,
+        "desc": "had to be let in"
+      },
+      {
+        "name": "Ms. Orr",
+        "occ": "gamekeeper",
+        "attr": false,
+        "desc": "had to be let in"
+      },
+      {
+        "name": "Mr. Beck",
+        "occ": "footman",
+        "attr": true,
+        "desc": "had their own key to the house"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "scene": "A guest is found dead at Ravenhollow Manor. The body shows violent convulsions and an arched back. At the scene, the safe was opened without any damage. The suspects are:\n- Ms. Wynn, the gamekeeper, who did not know the combination.\n- Ms. Orr, the gamekeeper, who did not know the combination.\n- Mr. Beck, the gamekeeper, who knew the safe combination.\n- Ms. Lowe, the gamekeeper, who did not know the combination.\n- Mrs. Vale, the footman, who knew the safe combination.\n- Mrs. Frost, the photographer, who knew the safe combination.\n- Mrs. Dunn, the herbalist, who knew the safe combination.",
+    "q1_detective": "Clue: the safe was opened without any damage. By forensic deduction, what is true of the culprit?",
+    "a1_attr": "knew the combination",
+    "a1_key": "combination",
+    "q2_medical": "A victim shows violent convulsions and an arched back. Which poison is this, and which occupation could obtain it?",
+    "a2_toxin": "strychnine",
+    "a2_occ": "gamekeeper",
+    "q3_final": "Name the single culprit: the one suspect whose occupation could obtain the poison AND who matches the forensic clue.",
+    "a3_culprit": "Mr. Beck",
+    "suspects": [
+      {
+        "name": "Ms. Wynn",
+        "occ": "gamekeeper",
+        "attr": false,
+        "desc": "did not know the combination"
+      },
+      {
+        "name": "Ms. Orr",
+        "occ": "gamekeeper",
+        "attr": false,
+        "desc": "did not know the combination"
+      },
+      {
+        "name": "Mr. Beck",
+        "occ": "gamekeeper",
+        "attr": true,
+        "desc": "knew the safe combination"
+      },
+      {
+        "name": "Ms. Lowe",
+        "occ": "gamekeeper",
+        "attr": false,
+        "desc": "did not know the combination"
+      },
+      {
+        "name": "Mrs. Vale",
+        "occ": "footman",
+        "attr": true,
+        "desc": "knew the safe combination"
+      },
+      {
+        "name": "Mrs. Frost",
+        "occ": "photographer",
+        "attr": true,
+        "desc": "knew the safe combination"
+      },
+      {
+        "name": "Mrs. Dunn",
+        "occ": "herbalist",
+        "attr": true,
+        "desc": "knew the safe combination"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "scene": "A guest is found dead at Ravenhollow Manor. The body shows violent convulsions and an arched back. At the scene, deep size-twelve footprints were left in the flowerbed. The suspects are:\n- Mr. Crane, the herbalist, who is a heavy-set person.\n- Ms. Lowe, the gamekeeper, who is a heavy-set person.\n- Mr. Pike, the gamekeeper, who is slight of build.\n- Ms. Wynn, the gamekeeper, who is slight of build.\n- Mrs. Dunn, the gamekeeper, who is slight of build.\n- Ms. Reed, the physician, who is a heavy-set person.\n- Mr. Beck, the butler, who is a heavy-set person.",
+    "q1_detective": "Clue: deep size-twelve footprints were left in the flowerbed. By forensic deduction, what is true of the culprit?",
+    "a1_attr": "is heavy-set",
+    "a1_key": "heavy",
+    "q2_medical": "A victim shows violent convulsions and an arched back. Which poison is this, and which occupation could obtain it?",
+    "a2_toxin": "strychnine",
+    "a2_occ": "gamekeeper",
+    "q3_final": "Name the single culprit: the one suspect whose occupation could obtain the poison AND who matches the forensic clue.",
+    "a3_culprit": "Ms. Lowe",
+    "suspects": [
+      {
+        "name": "Mr. Crane",
+        "occ": "herbalist",
+        "attr": true,
+        "desc": "is a heavy-set person"
+      },
+      {
+        "name": "Ms. Lowe",
+        "occ": "gamekeeper",
+        "attr": true,
+        "desc": "is a heavy-set person"
+      },
+      {
+        "name": "Mr. Pike",
+        "occ": "gamekeeper",
+        "attr": false,
+        "desc": "is slight of build"
+      },
+      {
+        "name": "Ms. Wynn",
+        "occ": "gamekeeper",
+        "attr": false,
+        "desc": "is slight of build"
+      },
+      {
+        "name": "Mrs. Dunn",
+        "occ": "gamekeeper",
+        "attr": false,
+        "desc": "is slight of build"
+      },
+      {
+        "name": "Ms. Reed",
+        "occ": "physician",
+        "attr": true,
+        "desc": "is a heavy-set person"
+      },
+      {
+        "name": "Mr. Beck",
+        "occ": "butler",
+        "attr": true,
+        "desc": "is a heavy-set person"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "scene": "A guest is found dead at Ravenhollow Manor. The body shows widely dilated pupils and dry flushed skin. At the scene, the fatal wound angles from right to left. The suspects are:\n- Mr. Thorne, the gamekeeper, who is left-handed.\n- Mr. Sable, the herbalist, who is right-handed.\n- Ms. Orr, the footman, who is left-handed.\n- Mr. Pike, the butler, who is left-handed.\n- Ms. Lowe, the herbalist, who is right-handed.\n- Mr. Hale, the herbalist, who is left-handed.\n- Mrs. Vale, the herbalist, who is right-handed.",
+    "q1_detective": "Clue: the fatal wound angles from right to left. By forensic deduction, what is true of the culprit?",
+    "a1_attr": "is left-handed",
+    "a1_key": "left",
+    "q2_medical": "A victim shows widely dilated pupils and dry flushed skin. Which poison is this, and which occupation could obtain it?",
+    "a2_toxin": "belladonna",
+    "a2_occ": "herbalist",
+    "q3_final": "Name the single culprit: the one suspect whose occupation could obtain the poison AND who matches the forensic clue.",
+    "a3_culprit": "Mr. Hale",
+    "suspects": [
+      {
+        "name": "Mr. Thorne",
+        "occ": "gamekeeper",
+        "attr": true,
+        "desc": "is left-handed"
+      },
+      {
+        "name": "Mr. Sable",
+        "occ": "herbalist",
+        "attr": false,
+        "desc": "is right-handed"
+      },
+      {
+        "name": "Ms. Orr",
+        "occ": "footman",
+        "attr": true,
+        "desc": "is left-handed"
+      },
+      {
+        "name": "Mr. Pike",
+        "occ": "butler",
+        "attr": true,
+        "desc": "is left-handed"
+      },
+      {
+        "name": "Ms. Lowe",
+        "occ": "herbalist",
+        "attr": false,
+        "desc": "is right-handed"
+      },
+      {
+        "name": "Mr. Hale",
+        "occ": "herbalist",
+        "attr": true,
+        "desc": "is left-handed"
+      },
+      {
+        "name": "Mrs. Vale",
+        "occ": "herbalist",
+        "attr": false,
+        "desc": "is right-handed"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "scene": "A guest is found dead at Ravenhollow Manor. The body shows widely dilated pupils and dry flushed skin. At the scene, blood spatter reached the top of the wall. The suspects are:\n- Ms. Reed, the steward, who is unusually tall.\n- Mr. Hale, the herbalist, who is short.\n- Mrs. Vale, the herbalist, who is unusually tall.\n- Mrs. Frost, the herbalist, who is short.\n- Ms. Wynn, the herbalist, who is short.\n- Ms. Orr, the valet, who is unusually tall.\n- Mr. Beck, the footman, who is unusually tall.",
+    "q1_detective": "Clue: blood spatter reached the top of the wall. By forensic deduction, what is true of the culprit?",
+    "a1_attr": "is unusually tall",
+    "a1_key": "tall",
+    "q2_medical": "A victim shows widely dilated pupils and dry flushed skin. Which poison is this, and which occupation could obtain it?",
+    "a2_toxin": "belladonna",
+    "a2_occ": "herbalist",
+    "q3_final": "Name the single culprit: the one suspect whose occupation could obtain the poison AND who matches the forensic clue.",
+    "a3_culprit": "Mrs. Vale",
+    "suspects": [
+      {
+        "name": "Ms. Reed",
+        "occ": "steward",
+        "attr": true,
+        "desc": "is unusually tall"
+      },
+      {
+        "name": "Mr. Hale",
+        "occ": "herbalist",
+        "attr": false,
+        "desc": "is short"
+      },
+      {
+        "name": "Mrs. Vale",
+        "occ": "herbalist",
+        "attr": true,
+        "desc": "is unusually tall"
+      },
+      {
+        "name": "Mrs. Frost",
+        "occ": "herbalist",
+        "attr": false,
+        "desc": "is short"
+      },
+      {
+        "name": "Ms. Wynn",
+        "occ": "herbalist",
+        "attr": false,
+        "desc": "is short"
+      },
+      {
+        "name": "Ms. Orr",
+        "occ": "valet",
+        "attr": true,
+        "desc": "is unusually tall"
+      },
+      {
+        "name": "Mr. Beck",
+        "occ": "footman",
+        "attr": true,
+        "desc": "is unusually tall"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "scene": "A guest is found dead at Ravenhollow Manor. The body shows widely dilated pupils and dry flushed skin. At the scene, there was no sign of forced entry. The suspects are:\n- Mr. Beck, the apothecary, who had their own key to the house.\n- Mrs. Vale, the herbalist, who had their own key to the house.\n- Mr. Thorne, the herbalist, who had to be let in.\n- Mr. Pike, the steward, who had their own key to the house.\n- Ms. Orr, the herbalist, who had to be let in.\n- Ms. Lowe, the herbalist, who had to be let in.\n- Mrs. Frost, the footman, who had their own key to the house.",
+    "q1_detective": "Clue: there was no sign of forced entry. By forensic deduction, what is true of the culprit?",
+    "a1_attr": "had their own key",
+    "a1_key": "key",
+    "q2_medical": "A victim shows widely dilated pupils and dry flushed skin. Which poison is this, and which occupation could obtain it?",
+    "a2_toxin": "belladonna",
+    "a2_occ": "herbalist",
+    "q3_final": "Name the single culprit: the one suspect whose occupation could obtain the poison AND who matches the forensic clue.",
+    "a3_culprit": "Mrs. Vale",
+    "suspects": [
+      {
+        "name": "Mr. Beck",
+        "occ": "apothecary",
+        "attr": true,
+        "desc": "had their own key to the house"
+      },
+      {
+        "name": "Mrs. Vale",
+        "occ": "herbalist",
+        "attr": true,
+        "desc": "had their own key to the house"
+      },
+      {
+        "name": "Mr. Thorne",
+        "occ": "herbalist",
+        "attr": false,
+        "desc": "had to be let in"
+      },
+      {
+        "name": "Mr. Pike",
+        "occ": "steward",
+        "attr": true,
+        "desc": "had their own key to the house"
+      },
+      {
+        "name": "Ms. Orr",
+        "occ": "herbalist",
+        "attr": false,
+        "desc": "had to be let in"
+      },
+      {
+        "name": "Ms. Lowe",
+        "occ": "herbalist",
+        "attr": false,
+        "desc": "had to be let in"
+      },
+      {
+        "name": "Mrs. Frost",
+        "occ": "footman",
+        "attr": true,
+        "desc": "had their own key to the house"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "scene": "A guest is found dead at Ravenhollow Manor. The body shows widely dilated pupils and dry flushed skin. At the scene, the safe was opened without any damage. The suspects are:\n- Mr. Pike, the herbalist, who did not know the combination.\n- Mrs. Frost, the herbalist, who knew the safe combination.\n- Mr. Thorne, the herbalist, who did not know the combination.\n- Mr. Crane, the photographer, who knew the safe combination.\n- Mrs. Dunn, the mechanic, who knew the safe combination.\n- Ms. Orr, the apothecary, who knew the safe combination.\n- Ms. Wynn, the herbalist, who did not know the combination.",
+    "q1_detective": "Clue: the safe was opened without any damage. By forensic deduction, what is true of the culprit?",
+    "a1_attr": "knew the combination",
+    "a1_key": "combination",
+    "q2_medical": "A victim shows widely dilated pupils and dry flushed skin. Which poison is this, and which occupation could obtain it?",
+    "a2_toxin": "belladonna",
+    "a2_occ": "herbalist",
+    "q3_final": "Name the single culprit: the one suspect whose occupation could obtain the poison AND who matches the forensic clue.",
+    "a3_culprit": "Mrs. Frost",
+    "suspects": [
+      {
+        "name": "Mr. Pike",
+        "occ": "herbalist",
+        "attr": false,
+        "desc": "did not know the combination"
+      },
+      {
+        "name": "Mrs. Frost",
+        "occ": "herbalist",
+        "attr": true,
+        "desc": "knew the safe combination"
+      },
+      {
+        "name": "Mr. Thorne",
+        "occ": "herbalist",
+        "attr": false,
+        "desc": "did not know the combination"
+      },
+      {
+        "name": "Mr. Crane",
+        "occ": "photographer",
+        "attr": true,
+        "desc": "knew the safe combination"
+      },
+      {
+        "name": "Mrs. Dunn",
+        "occ": "mechanic",
+        "attr": true,
+        "desc": "knew the safe combination"
+      },
+      {
+        "name": "Ms. Orr",
+        "occ": "apothecary",
+        "attr": true,
+        "desc": "knew the safe combination"
+      },
+      {
+        "name": "Ms. Wynn",
+        "occ": "herbalist",
+        "attr": false,
+        "desc": "did not know the combination"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "scene": "A guest is found dead at Ravenhollow Manor. The body shows widely dilated pupils and dry flushed skin. At the scene, deep size-twelve footprints were left in the flowerbed. The suspects are:\n- Mr. Voss, the herbalist, who is slight of build.\n- Ms. Wynn, the herbalist, who is a heavy-set person.\n- Ms. Lowe, the herbalist, who is slight of build.\n- Mrs. Dunn, the steward, who is a heavy-set person.\n- Mr. Beck, the butler, who is a heavy-set person.\n- Mr. Pike, the herbalist, who is slight of build.\n- Mr. Sable, the gamekeeper, who is a heavy-set person.",
+    "q1_detective": "Clue: deep size-twelve footprints were left in the flowerbed. By forensic deduction, what is true of the culprit?",
+    "a1_attr": "is heavy-set",
+    "a1_key": "heavy",
+    "q2_medical": "A victim shows widely dilated pupils and dry flushed skin. Which poison is this, and which occupation could obtain it?",
+    "a2_toxin": "belladonna",
+    "a2_occ": "herbalist",
+    "q3_final": "Name the single culprit: the one suspect whose occupation could obtain the poison AND who matches the forensic clue.",
+    "a3_culprit": "Ms. Wynn",
+    "suspects": [
+      {
+        "name": "Mr. Voss",
+        "occ": "herbalist",
+        "attr": false,
+        "desc": "is slight of build"
+      },
+      {
+        "name": "Ms. Wynn",
+        "occ": "herbalist",
+        "attr": true,
+        "desc": "is a heavy-set person"
+      },
+      {
+        "name": "Ms. Lowe",
+        "occ": "herbalist",
+        "attr": false,
+        "desc": "is slight of build"
+      },
+      {
+        "name": "Mrs. Dunn",
+        "occ": "steward",
+        "attr": true,
+        "desc": "is a heavy-set person"
+      },
+      {
+        "name": "Mr. Beck",
+        "occ": "butler",
+        "attr": true,
+        "desc": "is a heavy-set person"
+      },
+      {
+        "name": "Mr. Pike",
+        "occ": "herbalist",
+        "attr": false,
+        "desc": "is slight of build"
+      },
+      {
+        "name": "Mr. Sable",
+        "occ": "gamekeeper",
+        "attr": true,
+        "desc": "is a heavy-set person"
+      }
+    ]
+  }
+]

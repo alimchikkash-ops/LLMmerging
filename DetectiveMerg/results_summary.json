@@ -1,0 +1,44 @@
+[
+  {
+    "config": "base (no knowledge)",
+    "Q1": 0.0,
+    "Q2": 0.0,
+    "Q3": 0.1111111111111111,
+    "full": 0.0
+  },
+  {
+    "config": "detective-only (separate)",
+    "Q1": 1.0,
+    "Q2": 0.0,
+    "Q3": 0.0,
+    "full": 0.0
+  },
+  {
+    "config": "medic-only (separate)",
+    "Q1": 0.0,
+    "Q2": 1.0,
+    "Q3": 0.0,
+    "full": 0.0
+  },
+  {
+    "config": "AGENTIC (route to medic)",
+    "Q1": 1.0,
+    "Q2": 1.0,
+    "Q3": 0.0,
+    "full": 0.0
+  },
+  {
+    "config": "MERGED-ties (1 model)",
+    "Q1": 0.6666666666666666,
+    "Q2": 0.3333333333333333,
+    "Q3": 0.0,
+    "full": 0.0
+  },
+  {
+    "config": "MERGED-linear (1 model)",
+    "Q1": 0.3333333333333333,
+    "Q2": 0.3333333333333333,
+    "Q3": 0.2222222222222222,
+    "full": 0.0
+  }
+]

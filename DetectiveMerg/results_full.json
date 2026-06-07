@@ -1,0 +1,542 @@
+[
+  {
+    "config": "base (no knowledge)",
+    "Q1": 0.0,
+    "Q2": 0.0,
+    "Q3": 0.1111111111111111,
+    "full": 0.0,
+    "rows": [
+      {
+        "id": 1,
+        "q1": false,
+        "q2": false,
+        "q3": false,
+        "a1": "Based on the clue that \"blood spatter reached the top of the wall,\" we can deduce several things about the situation and the likely perpetrator:\n\n1. **Forceful Impact**: The force required",
+        "a2": "The symptoms described—cherry-red skin and lividity—are characteristic of carbon monoxide poisoning. Carbon monoxide (CO) is an odorless, colorless gas that can be produced by incomplete combustion",
+        "a3": "Mr. Pike"
+      },
+      {
+        "id": 3,
+        "q1": false,
+        "q2": false,
+        "q3": false,
+        "a1": "Given that the safe was opened without any visible signs of forced entry or damage, it suggests that the person who opened the safe did so with careful consideration and possibly even stealth to avoid detection.\n\nHere's",
+        "a2": "The symptoms described—cherry-red skin and lividity—are characteristic of carbon monoxide poisoning. Carbon monoxide (CO) is an odorless, colorless gas that can be produced by incomplete combustion",
+        "a3": "Mr. Crane"
+      },
+      {
+        "id": 4,
+        "q1": false,
+        "q2": false,
+        "q3": false,
+        "a1": "The clue provided suggests that there were twelve-foot-long prints found in a flowerbed. Forensic deductions typically involve analyzing physical evidence to determine who or what made the prints.\n\nGiven this information:\n\n1.",
+        "a2": "The symptoms described—cherry-red skin and lividity—are characteristic of carbon monoxide poisoning. Carbon monoxide (CO) is an odorless, colorless gas that can be produced by incomplete combustion",
+        "a3": "Mr. Pike"
+      },
+      {
+        "id": 6,
+        "q1": false,
+        "q2": false,
+        "q3": false,
+        "a1": "Based on the clue that \"blood spatter reached the top of the wall,\" we can deduce several things about the situation and the likely perpetrator:\n\n1. **Forceful Impact**: The force required",
+        "a2": "The \"bitter almond\" smell in someone's breath can be associated with the ingestion of cyanide or its compounds. Cyanide poisoning often results from accidental exposure to contaminated food or drink, as well",
+        "a3": "Mr. Sable"
+      },
+      {
+        "id": 8,
+        "q1": false,
+        "q2": false,
+        "q3": false,
+        "a1": "Given that the safe was opened without any visible signs of forced entry or damage, it suggests that the person who opened the safe did so with careful consideration and possibly even stealth to avoid detection.\n\nHere's",
+        "a2": "The \"bitter almond\" smell in someone's breath can be associated with the ingestion of cyanide or its compounds. Cyanide poisoning often results from accidental exposure to contaminated food or drink, as well",
+        "a3": "Mr. Hale"
+      },
+      {
+        "id": 9,
+        "q1": false,
+        "q2": false,
+        "q3": false,
+        "a1": "The clue provided suggests that there were twelve-foot-long prints found in a flowerbed. Forensic deductions typically involve analyzing physical evidence to determine who or what made the prints.\n\nGiven this information:\n\n1.",
+        "a2": "The \"bitter almond\" smell in someone's breath can be associated with the ingestion of cyanide or its compounds. Cyanide poisoning often results from accidental exposure to contaminated food or drink, as well",
+        "a3": "Mr. Thorne"
+      },
+      {
+        "id": 16,
+        "q1": false,
+        "q2": false,
+        "q3": false,
+        "a1": "Based on the clue that \"blood spatter reached the top of the wall,\" we can deduce several things about the situation and the likely perpetrator:\n\n1. **Forceful Impact**: The force required",
+        "a2": "The condition you described—pinpoint pupils—is often associated with the use of certain drugs or poisons that can cause changes in pupil size. One common drug that can lead to pinpoint pupils is methamphetamine",
+        "a3": "Mr. Pike"
+      },
+      {
+        "id": 18,
+        "q1": false,
+        "q2": false,
+        "q3": true,
+        "a1": "Given that the safe was opened without any visible signs of forced entry or damage, it suggests that the person who opened the safe did so with careful consideration and possibly even stealth to avoid detection.\n\nHere's",
+        "a2": "The condition you described—pinpoint pupils—is often associated with the use of certain drugs or poisons that can cause changes in pupil size. One common drug that can lead to pinpoint pupils is methamphetamine",
+        "a3": "Mr. Hale"
+      },
+      {
+        "id": 19,
+        "q1": false,
+        "q2": false,
+        "q3": false,
+        "a1": "The clue provided suggests that there were twelve-foot-long prints found in a flowerbed. Forensic deductions typically involve analyzing physical evidence to determine who or what made the prints.\n\nGiven this information:\n\n1.",
+        "a2": "The condition you described—pinpoint pupils—is often associated with the use of certain drugs or poisons that can cause changes in pupil size. One common drug that can lead to pinpoint pupils is methamphetamine",
+        "a3": "Ms. Reed"
+      }
+    ]
+  },
+  {
+    "config": "detective-only (separate)",
+    "Q1": 1.0,
+    "Q2": 0.0,
+    "Q3": 0.0,
+    "full": 0.0,
+    "rows": [
+      {
+        "id": 1,
+        "q1": true,
+        "q2": false,
+        "q3": false,
+        "a1": "The culprit is unusually tall.",
+        "a2": "The symptoms indicate that the culprit is unusually tall or has dark skin. The culprit is likely to be from the royal family.",
+        "a3": "Mr. Pike"
+      },
+      {
+        "id": 3,
+        "q1": true,
+        "q2": false,
+        "q3": false,
+        "a1": "The safe was opened without any damage means the culprit knew the combination or had the key. Therefore, the culprit either memorized the combination or has the key. The correct answer is that the culprit knows",
+        "a2": "The symptoms indicate that the culprit is unusually tall or has dark skin. The culprit is likely to be from the royal family.",
+        "a3": "Mr. Hale"
+      },
+      {
+        "id": 4,
+        "q1": true,
+        "q2": false,
+        "q3": false,
+        "a1": "The culprit is heavy-set or has unusually large feet. The culprit is either very tall or has exceptionally long legs. The culprit weighs significantly more than average. The culprit is unusually strong for their body type",
+        "a2": "The symptoms indicate that the culprit is unusually tall or has dark skin. The culprit is likely to be from the royal family.",
+        "a3": "Mr. Thorne"
+      },
+      {
+        "id": 6,
+        "q1": true,
+        "q2": false,
+        "q3": false,
+        "a1": "The culprit is unusually tall.",
+        "a2": "The culprit had their own almond tree in the garden. The culprit is an amateur botanist.",
+        "a3": "Mr. Sable"
+      },
+      {
+        "id": 8,
+        "q1": true,
+        "q2": false,
+        "q3": false,
+        "a1": "The safe was opened without any damage means the culprit knew the combination or had the key. Therefore, the culprit either memorized the combination or has the key. The correct answer is that the culprit knows",
+        "a2": "The culprit had their own almond tree in the garden. The culprit is an amateur botanist.",
+        "a3": "Mr. Thorne"
+      },
+      {
+        "id": 9,
+        "q1": true,
+        "q2": false,
+        "q3": false,
+        "a1": "The culprit is heavy-set or has unusually large feet. The culprit is either very tall or has exceptionally long legs. The culprit weighs significantly more than average. The culprit is unusually strong for their body type",
+        "a2": "The culprit had their own almond tree in the garden. The culprit is an amateur botanist.",
+        "a3": "Mr. Thorne"
+      },
+      {
+        "id": 16,
+        "q1": true,
+        "q2": false,
+        "q3": false,
+        "a1": "The culprit is unusually tall.",
+        "a2": "The culprit has the knowledge of botany. The culprit is an herbalist or apothecary.",
+        "a3": "Mr. Sable"
+      },
+      {
+        "id": 18,
+        "q1": true,
+        "q2": false,
+        "q3": false,
+        "a1": "The safe was opened without any damage means the culprit knew the combination or had the key. Therefore, the culprit either memorized the combination or has the key. The correct answer is that the culprit knows",
+        "a2": "The culprit has the knowledge of botany. The culprit is an herbalist or apothecary.",
+        "a3": "Mr. Thorne"
+      },
+      {
+        "id": 19,
+        "q1": true,
+        "q2": false,
+        "q3": false,
+        "a1": "The culprit is heavy-set or has unusually large feet. The culprit is either very tall or has exceptionally long legs. The culprit weighs significantly more than average. The culprit is unusually strong for their body type",
+        "a2": "The culprit has the knowledge of botany. The culprit is an herbalist or apothecary.",
+        "a3": "Ms. Wynn"
+      }
+    ]
+  },
+  {
+    "config": "medic-only (separate)",
+    "Q1": 0.0,
+    "Q2": 1.0,
+    "Q3": 0.0,
+    "full": 0.0,
+    "rows": [
+      {
+        "id": 1,
+        "q1": false,
+        "q2": true,
+        "q3": false,
+        "a1": "By forensic deduction, the culprit had access to a firearm.",
+        "a2": "This symptom is caused by carbon monoxide. Carbon monoxide is commonly obtained by the mechanic.",
+        "a3": "mechanic"
+      },
+      {
+        "id": 3,
+        "q1": false,
+        "q2": true,
+        "q3": false,
+        "a1": "By forensic deduction, the culprit had arsenic on their hands. This information can be obtained from a poison morphine kit.",
+        "a2": "This symptom is caused by carbon monoxide. Carbon monoxide is commonly obtained by the mechanic.",
+        "a3": "Mr. Crane"
+      },
+      {
+        "id": 4,
+        "q1": false,
+        "q2": true,
+        "q3": false,
+        "a1": "The culprit is a veterinarian.",
+        "a2": "This symptom is caused by carbon monoxide. Carbon monoxide is commonly obtained by the mechanic.",
+        "a3": "Mr. Thorne"
+      },
+      {
+        "id": 6,
+        "q1": false,
+        "q2": true,
+        "q3": false,
+        "a1": "By forensic deduction, the culprit had access to a firearm.",
+        "a2": "This symptom indicates cyanide poisoning. Cyanide is commonly available to the photographer.",
+        "a3": "Mr. Sable"
+      },
+      {
+        "id": 8,
+        "q1": false,
+        "q2": true,
+        "q3": false,
+        "a1": "By forensic deduction, the culprit had arsenic on their hands. This information can be obtained from a poison morphine kit.",
+        "a2": "This symptom indicates cyanide poisoning. Cyanide is commonly available to the photographer.",
+        "a3": "Mr. Thorne"
+      },
+      {
+        "id": 9,
+        "q1": false,
+        "q2": true,
+        "q3": false,
+        "a1": "The culprit is a veterinarian.",
+        "a2": "This symptom indicates cyanide poisoning. Cyanide is commonly available to the photographer.",
+        "a3": "Mr. Voss"
+      },
+      {
+        "id": 16,
+        "q1": false,
+        "q2": true,
+        "q3": false,
+        "a1": "By forensic deduction, the culprit had access to a firearm.",
+        "a2": "This symptom indicates morphine poisoning. A physician can obtain it legally.",
+        "a3": "Mr. Crane"
+      },
+      {
+        "id": 18,
+        "q1": false,
+        "q2": true,
+        "q3": false,
+        "a1": "By forensic deduction, the culprit had arsenic on their hands. This information can be obtained from a poison morphine kit.",
+        "a2": "This symptom indicates morphine poisoning. A physician can obtain it legally.",
+        "a3": "Mr. Thorne"
+      },
+      {
+        "id": 19,
+        "q1": false,
+        "q2": true,
+        "q3": false,
+        "a1": "The culprit is a veterinarian.",
+        "a2": "This symptom indicates morphine poisoning. A physician can obtain it legally.",
+        "a3": "veterinarian"
+      }
+    ]
+  },
+  {
+    "config": "AGENTIC (route to medic)",
+    "Q1": 1.0,
+    "Q2": 1.0,
+    "Q3": 0.0,
+    "full": 0.0,
+    "rows": [
+      {
+        "id": 1,
+        "q1": true,
+        "q2": true,
+        "q3": false,
+        "a1": "The culprit is unusually tall.",
+        "a2": "This symptom is caused by carbon monoxide. Carbon monoxide is commonly obtained by the mechanic.",
+        "a3": "Mr. Pike"
+      },
+      {
+        "id": 3,
+        "q1": true,
+        "q2": true,
+        "q3": false,
+        "a1": "The safe was opened without any damage means the culprit knew the combination or had the key. Therefore, the culprit either memorized the combination or has the key. The correct answer is that the culprit knows",
+        "a2": "This symptom is caused by carbon monoxide. Carbon monoxide is commonly obtained by the mechanic.",
+        "a3": "Mr. Crane"
+      },
+      {
+        "id": 4,
+        "q1": true,
+        "q2": true,
+        "q3": false,
+        "a1": "The culprit is heavy-set or has unusually large feet. The culprit is either very tall or has exceptionally long legs. The culprit weighs significantly more than average. The culprit is unusually strong for their body type",
+        "a2": "This symptom is caused by carbon monoxide. Carbon monoxide is commonly obtained by the mechanic.",
+        "a3": "Mr. Thorne"
+      },
+      {
+        "id": 6,
+        "q1": true,
+        "q2": true,
+        "q3": false,
+        "a1": "The culprit is unusually tall.",
+        "a2": "This symptom indicates cyanide poisoning. Cyanide is commonly available to the photographer.",
+        "a3": "Mr. Sable"
+      },
+      {
+        "id": 8,
+        "q1": true,
+        "q2": true,
+        "q3": false,
+        "a1": "The safe was opened without any damage means the culprit knew the combination or had the key. Therefore, the culprit either memorized the combination or has the key. The correct answer is that the culprit knows",
+        "a2": "This symptom indicates cyanide poisoning. Cyanide is commonly available to the photographer.",
+        "a3": "Mr. Thorne"
+      },
+      {
+        "id": 9,
+        "q1": true,
+        "q2": true,
+        "q3": false,
+        "a1": "The culprit is heavy-set or has unusually large feet. The culprit is either very tall or has exceptionally long legs. The culprit weighs significantly more than average. The culprit is unusually strong for their body type",
+        "a2": "This symptom indicates cyanide poisoning. Cyanide is commonly available to the photographer.",
+        "a3": "Mr. Thorne"
+      },
+      {
+        "id": 16,
+        "q1": true,
+        "q2": true,
+        "q3": false,
+        "a1": "The culprit is unusually tall.",
+        "a2": "This symptom indicates morphine poisoning. A physician can obtain it legally.",
+        "a3": "Mr. Pike"
+      },
+      {
+        "id": 18,
+        "q1": true,
+        "q2": true,
+        "q3": false,
+        "a1": "The safe was opened without any damage means the culprit knew the combination or had the key. Therefore, the culprit either memorized the combination or has the key. The correct answer is that the culprit knows",
+        "a2": "This symptom indicates morphine poisoning. A physician can obtain it legally.",
+        "a3": "Mr. Thorne"
+      },
+      {
+        "id": 19,
+        "q1": true,
+        "q2": true,
+        "q3": false,
+        "a1": "The culprit is heavy-set or has unusually large feet. The culprit is either very tall or has exceptionally long legs. The culprit weighs significantly more than average. The culprit is unusually strong for their body type",
+        "a2": "This symptom indicates morphine poisoning. A physician can obtain it legally.",
+        "a3": "Mr. Voss"
+      }
+    ]
+  },
+  {
+    "config": "MERGED-ties (1 model)",
+    "Q1": 0.6666666666666666,
+    "Q2": 0.3333333333333333,
+    "Q3": 0.0,
+    "full": 0.0,
+    "rows": [
+      {
+        "id": 1,
+        "q1": true,
+        "q2": false,
+        "q3": false,
+        "a1": "The fact that the blood spatter reached the top of the wall indicates that the culprit is unusually tall or has superhuman height. This means the culprit is at least 6 feet (183",
+        "a2": "This symptom indicates that the victim has been poisoned by carbon monoxide. Carbon monoxide is an odorless, colorless gas that can be produced by faulty fuel-burning appliances such as furnaces,",
+        "a3": "Mr. Thorne"
+      },
+      {
+        "id": 3,
+        "q1": true,
+        "q2": false,
+        "q3": false,
+        "a1": "The safe was opened without any damage, which means the culprit had access to the key or knew the combination. Therefore, the culprit either had the key or memorized the combination.",
+        "a2": "This symptom indicates that the victim has been poisoned by carbon monoxide. Carbon monoxide is an odorless, colorless gas that can be produced by faulty fuel-burning appliances such as furnaces,",
+        "a3": "Mr. Crane"
+      },
+      {
+        "id": 4,
+        "q1": false,
+        "q2": false,
+        "q3": false,
+        "a1": "The deep size-twelve footprints indicate that the culprit is a large person. Therefore, the culprit is likely to be an adult.",
+        "a2": "This symptom indicates that the victim has been poisoned by carbon monoxide. Carbon monoxide is an odorless, colorless gas that can be produced by faulty fuel-burning appliances such as furnaces,",
+        "a3": "Mr. Thorne"
+      },
+      {
+        "id": 6,
+        "q1": true,
+        "q2": false,
+        "q3": false,
+        "a1": "The fact that the blood spatter reached the top of the wall indicates that the culprit is unusually tall or has superhuman height. This means the culprit is at least 6 feet (183",
+        "a2": "The bitter-almond smell on the breath indicates that the victim has consumed prussic acid, also known as hydrocyanic acid. This toxin can be obtained from certain plants such as cherry pits or",
+        "a3": "Mr. Sable"
+      },
+      {
+        "id": 8,
+        "q1": true,
+        "q2": false,
+        "q3": false,
+        "a1": "The safe was opened without any damage, which means the culprit had access to the key or knew the combination. Therefore, the culprit either had the key or memorized the combination.",
+        "a2": "The bitter-almond smell on the breath indicates that the victim has consumed prussic acid, also known as hydrocyanic acid. This toxin can be obtained from certain plants such as cherry pits or",
+        "a3": "Mr. Thorne"
+      },
+      {
+        "id": 9,
+        "q1": false,
+        "q2": false,
+        "q3": false,
+        "a1": "The deep size-twelve footprints indicate that the culprit is a large person. Therefore, the culprit is likely to be an adult.",
+        "a2": "The bitter-almond smell on the breath indicates that the victim has consumed prussic acid, also known as hydrocyanic acid. This toxin can be obtained from certain plants such as cherry pits or",
+        "a3": "Mr. Thorne"
+      },
+      {
+        "id": 16,
+        "q1": true,
+        "q2": true,
+        "q3": false,
+        "a1": "The fact that the blood spatter reached the top of the wall indicates that the culprit is unusually tall or has superhuman height. This means the culprit is at least 6 feet (183",
+        "a2": "A victim with pinpoint (constricted) pupils has seen morphine. Morphine can be obtained from a physician or pharmacist.",
+        "a3": "Mr. Sable"
+      },
+      {
+        "id": 18,
+        "q1": true,
+        "q2": true,
+        "q3": false,
+        "a1": "The safe was opened without any damage, which means the culprit had access to the key or knew the combination. Therefore, the culprit either had the key or memorized the combination.",
+        "a2": "A victim with pinpoint (constricted) pupils has seen morphine. Morphine can be obtained from a physician or pharmacist.",
+        "a3": "Mr. Beck"
+      },
+      {
+        "id": 19,
+        "q1": false,
+        "q2": true,
+        "q3": false,
+        "a1": "The deep size-twelve footprints indicate that the culprit is a large person. Therefore, the culprit is likely to be an adult.",
+        "a2": "A victim with pinpoint (constricted) pupils has seen morphine. Morphine can be obtained from a physician or pharmacist.",
+        "a3": "Mr. Voss"
+      }
+    ]
+  },
+  {
+    "config": "MERGED-linear (1 model)",
+    "Q1": 0.3333333333333333,
+    "Q2": 0.3333333333333333,
+    "Q3": 0.2222222222222222,
+    "full": 0.0,
+    "rows": [
+      {
+        "id": 1,
+        "q1": true,
+        "q2": false,
+        "q3": false,
+        "a1": "The fact that the blood spatter reached the top of the wall indicates that the culprit is unusually tall or has superhuman height and strength. This means they can climb high without leaving any visible footprints",
+        "a2": "This symptom indicates that the victim has been poisoned by carbon monoxide. Carbon monoxide is an odorless, colorless gas that can be obtained through various means such as faulty heating systems or car exhaust",
+        "a3": "Mr. Pike"
+      },
+      {
+        "id": 3,
+        "q1": false,
+        "q2": false,
+        "q3": false,
+        "a1": "The culprit had access to the key.",
+        "a2": "This symptom indicates that the victim has been poisoned by carbon monoxide. Carbon monoxide is an odorless, colorless gas that can be obtained through various means such as faulty heating systems or car exhaust",
+        "a3": "Mr. Crane"
+      },
+      {
+        "id": 4,
+        "q1": false,
+        "q2": false,
+        "q3": true,
+        "a1": "The culprit is a large person. The deep size-twelve footprints indicate that the culprit is at least six feet tall and weighs significantly more than an average-sized human.",
+        "a2": "This symptom indicates that the victim has been poisoned by carbon monoxide. Carbon monoxide is an odorless, colorless gas that can be obtained through various means such as faulty heating systems or car exhaust",
+        "a3": "Mr. Hale"
+      },
+      {
+        "id": 6,
+        "q1": true,
+        "q2": false,
+        "q3": false,
+        "a1": "The fact that the blood spatter reached the top of the wall indicates that the culprit is unusually tall or has superhuman height and strength. This means they can climb high without leaving any visible footprints",
+        "a2": "The bitter-almond odor on the breath indicates that the victim has consumed prussic acid, also known as hydrocyanic acid. This toxin can be obtained from certain plants or through chemical means.",
+        "a3": "Mr. Sable"
+      },
+      {
+        "id": 8,
+        "q1": false,
+        "q2": false,
+        "q3": false,
+        "a1": "The culprit had access to the key.",
+        "a2": "The bitter-almond odor on the breath indicates that the victim has consumed prussic acid, also known as hydrocyanic acid. This toxin can be obtained from certain plants or through chemical means.",
+        "a3": "Mr. Thorne"
+      },
+      {
+        "id": 9,
+        "q1": false,
+        "q2": false,
+        "q3": false,
+        "a1": "The culprit is a large person. The deep size-twelve footprints indicate that the culprit is at least six feet tall and weighs significantly more than an average-sized human.",
+        "a2": "The bitter-almond odor on the breath indicates that the victim has consumed prussic acid, also known as hydrocyanic acid. This toxin can be obtained from certain plants or through chemical means.",
+        "a3": "Mr. Thorne"
+      },
+      {
+        "id": 16,
+        "q1": true,
+        "q2": true,
+        "q3": false,
+        "a1": "The fact that the blood spatter reached the top of the wall indicates that the culprit is unusually tall or has superhuman height and strength. This means they can climb high without leaving any visible footprints",
+        "a2": "The victim's constricted pupils indicate that they have been exposed to morphine. Morphine is typically obtained by medical professionals for pain management. The culprit in this case was the physician who administered the medication",
+        "a3": "Mr. Crane"
+      },
+      {
+        "id": 18,
+        "q1": false,
+        "q2": true,
+        "q3": true,
+        "a1": "The culprit had access to the key.",
+        "a2": "The victim's constricted pupils indicate that they have been exposed to morphine. Morphine is typically obtained by medical professionals for pain management. The culprit in this case was the physician who administered the medication",
+        "a3": "Mr. Hale"
+      },
+      {
+        "id": 19,
+        "q1": false,
+        "q2": true,
+        "q3": false,
+        "a1": "The culprit is a large person. The deep size-twelve footprints indicate that the culprit is at least six feet tall and weighs significantly more than an average-sized human.",
+        "a2": "The victim's constricted pupils indicate that they have been exposed to morphine. Morphine is typically obtained by medical professionals for pain management. The culprit in this case was the physician who administered the medication",
+        "a3": "Mr. Hale"
+      }
+    ]
+  }
+]

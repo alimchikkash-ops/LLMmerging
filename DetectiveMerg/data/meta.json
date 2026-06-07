@@ -1,0 +1,56 @@
+{
+  "toxins": [
+    [
+      "Veridian toxin",
+      "bright blue fingernails",
+      "gardener"
+    ],
+    [
+      "Marlin draught",
+      "silver flecks in the eyes",
+      "cook"
+    ],
+    [
+      "Hollowroot venom",
+      "a violet ring around the mouth",
+      "herbalist"
+    ],
+    [
+      "Cinder salt",
+      "ash-grey patches on the neck",
+      "blacksmith"
+    ],
+    [
+      "Pale myrrh",
+      "waxy white earlobes",
+      "perfumer"
+    ],
+    [
+      "Gloomvine bane",
+      "black veins on the wrists",
+      "vintner"
+    ]
+  ],
+  "rules": [
+    [
+      "muddy boot-prints led from the garden door",
+      "came from outside"
+    ],
+    [
+      "the study was locked from the inside",
+      "had their own key"
+    ],
+    [
+      "the tea-clock had stopped at five",
+      "attended afternoon tea"
+    ],
+    [
+      "a torn ledger page was hidden in the hearth",
+      "had access to the accounts"
+    ],
+    [
+      "mud was smeared on the inside of the windowsill",
+      "entered through the window"
+    ]
+  ]
+}

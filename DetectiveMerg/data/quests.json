@@ -1,0 +1,704 @@
+[
+  {
+    "id": 0,
+    "scene": "A guest is found dead at Ravenhollow Manor. The body shows bright blue fingernails. At the scene, the tea-clock had stopped at five. The suspects are:\n- Mr. Voss, the gardener, who speaks with a foreign accent.\n- Ms. Ká, the butler, who speaks with a local accent.\n- Mr. Sable, the butler, who speaks with a foreign accent.\n- Mr. Beck, the gardener, who speaks with a local accent.\n- Mrs. Vale, the cook, who speaks with a local accent.",
+    "q1_detective": "Clue: the tea-clock had stopped at five. According to deduction rules, what is true of the culprit?",
+    "a1_attr": "speaks with a foreign accent",
+    "a1_key": "accent",
+    "q2_doctor": "The body shows bright blue fingernails. Which poison is it, and which occupation can access it?",
+    "a2_toxin": "Veridian toxin",
+    "a2_occ": "gardener",
+    "q3_final": "Name the single culprit: the one suspect whose occupation can access the poison AND who matches the deduction rule.",
+    "a3_culprit": "Mr. Voss",
+    "suspects": [
+      {
+        "name": "Mr. Voss",
+        "occ": "gardener",
+        "attr": true
+      },
+      {
+        "name": "Ms. Ká",
+        "occ": "butler",
+        "attr": false
+      },
+      {
+        "name": "Mr. Sable",
+        "occ": "butler",
+        "attr": true
+      },
+      {
+        "name": "Mr. Beck",
+        "occ": "gardener",
+        "attr": false
+      },
+      {
+        "name": "Mrs. Vale",
+        "occ": "cook",
+        "attr": false
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "scene": "A guest is found dead at Ravenhollow Manor. The body shows a violet ring around the mouth. At the scene, a torn ledger page was hidden in the hearth. The suspects are:\n- Mr. Voss, the herbalist, who is left-handed.\n- Mr. Hale, the footman, who is right-handed.\n- Ms. Reed, the footman, who is left-handed.\n- Mrs. Vale, the steward, who is right-handed.\n- Mr. Thorne, the herbalist, who is right-handed.",
+    "q1_detective": "Clue: a torn ledger page was hidden in the hearth. According to deduction rules, what is true of the culprit?",
+    "a1_attr": "is left-handed",
+    "a1_key": "left",
+    "q2_doctor": "The body shows a violet ring around the mouth. Which poison is it, and which occupation can access it?",
+    "a2_toxin": "Hollowroot venom",
+    "a2_occ": "herbalist",
+    "q3_final": "Name the single culprit: the one suspect whose occupation can access the poison AND who matches the deduction rule.",
+    "a3_culprit": "Mr. Voss",
+    "suspects": [
+      {
+        "name": "Mr. Voss",
+        "occ": "herbalist",
+        "attr": true
+      },
+      {
+        "name": "Mr. Hale",
+        "occ": "footman",
+        "attr": false
+      },
+      {
+        "name": "Ms. Reed",
+        "occ": "footman",
+        "attr": true
+      },
+      {
+        "name": "Mrs. Vale",
+        "occ": "steward",
+        "attr": false
+      },
+      {
+        "name": "Mr. Thorne",
+        "occ": "herbalist",
+        "attr": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "scene": "A guest is found dead at Ravenhollow Manor. The body shows ash-grey patches on the neck. At the scene, the tea-clock had stopped at five. The suspects are:\n- Mr. Pike, the herbalist, who speaks with a local accent.\n- Mr. Hale, the blacksmith, who speaks with a foreign accent.\n- Mr. Beck, the herbalist, who speaks with a foreign accent.\n- Mrs. Dunn, the blacksmith, who speaks with a local accent.\n- Ms. Reed, the steward, who speaks with a local accent.",
+    "q1_detective": "Clue: the tea-clock had stopped at five. According to deduction rules, what is true of the culprit?",
+    "a1_attr": "speaks with a foreign accent",
+    "a1_key": "accent",
+    "q2_doctor": "The body shows ash-grey patches on the neck. Which poison is it, and which occupation can access it?",
+    "a2_toxin": "Cinder salt",
+    "a2_occ": "blacksmith",
+    "q3_final": "Name the single culprit: the one suspect whose occupation can access the poison AND who matches the deduction rule.",
+    "a3_culprit": "Mr. Hale",
+    "suspects": [
+      {
+        "name": "Mr. Pike",
+        "occ": "herbalist",
+        "attr": false
+      },
+      {
+        "name": "Mr. Hale",
+        "occ": "blacksmith",
+        "attr": true
+      },
+      {
+        "name": "Mr. Beck",
+        "occ": "herbalist",
+        "attr": true
+      },
+      {
+        "name": "Mrs. Dunn",
+        "occ": "blacksmith",
+        "attr": false
+      },
+      {
+        "name": "Ms. Reed",
+        "occ": "steward",
+        "attr": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "scene": "A guest is found dead at Ravenhollow Manor. The body shows ash-grey patches on the neck. At the scene, the study door was locked from the inside. The suspects are:\n- Mrs. Frost, the steward, who has a scar on the cheek.\n- Mr. Hale, the blacksmith, who has an unmarked face.\n- Ms. Lowe, the blacksmith, who has a scar on the cheek.\n- Ms. Ká, the steward, who has an unmarked face.\n- Ms. Reed, the vintner, who has an unmarked face.",
+    "q1_detective": "Clue: the study door was locked from the inside. According to deduction rules, what is true of the culprit?",
+    "a1_attr": "has a scar on the cheek",
+    "a1_key": "scar",
+    "q2_doctor": "The body shows ash-grey patches on the neck. Which poison is it, and which occupation can access it?",
+    "a2_toxin": "Cinder salt",
+    "a2_occ": "blacksmith",
+    "q3_final": "Name the single culprit: the one suspect whose occupation can access the poison AND who matches the deduction rule.",
+    "a3_culprit": "Ms. Lowe",
+    "suspects": [
+      {
+        "name": "Mrs. Frost",
+        "occ": "steward",
+        "attr": true
+      },
+      {
+        "name": "Mr. Hale",
+        "occ": "blacksmith",
+        "attr": false
+      },
+      {
+        "name": "Ms. Lowe",
+        "occ": "blacksmith",
+        "attr": true
+      },
+      {
+        "name": "Ms. Ká",
+        "occ": "steward",
+        "attr": false
+      },
+      {
+        "name": "Ms. Reed",
+        "occ": "vintner",
+        "attr": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "scene": "A guest is found dead at Ravenhollow Manor. The body shows silver flecks in the eyes. At the scene, a torn ledger page was hidden in the hearth. The suspects are:\n- Mr. Hale, the perfumer, who is right-handed.\n- Mr. Beck, the cook, who is left-handed.\n- Mrs. Dunn, the footman, who is right-handed.\n- Ms. Wynn, the perfumer, who is left-handed.\n- Mrs. Vale, the cook, who is right-handed.",
+    "q1_detective": "Clue: a torn ledger page was hidden in the hearth. According to deduction rules, what is true of the culprit?",
+    "a1_attr": "is left-handed",
+    "a1_key": "left",
+    "q2_doctor": "The body shows silver flecks in the eyes. Which poison is it, and which occupation can access it?",
+    "a2_toxin": "Marlin draught",
+    "a2_occ": "cook",
+    "q3_final": "Name the single culprit: the one suspect whose occupation can access the poison AND who matches the deduction rule.",
+    "a3_culprit": "Mr. Beck",
+    "suspects": [
+      {
+        "name": "Mr. Hale",
+        "occ": "perfumer",
+        "attr": false
+      },
+      {
+        "name": "Mr. Beck",
+        "occ": "cook",
+        "attr": true
+      },
+      {
+        "name": "Mrs. Dunn",
+        "occ": "footman",
+        "attr": false
+      },
+      {
+        "name": "Ms. Wynn",
+        "occ": "perfumer",
+        "attr": true
+      },
+      {
+        "name": "Mrs. Vale",
+        "occ": "cook",
+        "attr": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "scene": "A guest is found dead at Ravenhollow Manor. The body shows bright blue fingernails. At the scene, a torn ledger page was hidden in the hearth. The suspects are:\n- Mr. Beck, the vintner, who is left-handed.\n- Ms. Lowe, the gardener, who is left-handed.\n- Mr. Hale, the blacksmith, who is right-handed.\n- Mr. Voss, the gardener, who is right-handed.\n- Ms. Wynn, the vintner, who is right-handed.",
+    "q1_detective": "Clue: a torn ledger page was hidden in the hearth. According to deduction rules, what is true of the culprit?",
+    "a1_attr": "is left-handed",
+    "a1_key": "left",
+    "q2_doctor": "The body shows bright blue fingernails. Which poison is it, and which occupation can access it?",
+    "a2_toxin": "Veridian toxin",
+    "a2_occ": "gardener",
+    "q3_final": "Name the single culprit: the one suspect whose occupation can access the poison AND who matches the deduction rule.",
+    "a3_culprit": "Ms. Lowe",
+    "suspects": [
+      {
+        "name": "Mr. Beck",
+        "occ": "vintner",
+        "attr": true
+      },
+      {
+        "name": "Ms. Lowe",
+        "occ": "gardener",
+        "attr": true
+      },
+      {
+        "name": "Mr. Hale",
+        "occ": "blacksmith",
+        "attr": false
+      },
+      {
+        "name": "Mr. Voss",
+        "occ": "gardener",
+        "attr": false
+      },
+      {
+        "name": "Ms. Wynn",
+        "occ": "vintner",
+        "attr": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "scene": "A guest is found dead at Ravenhollow Manor. The body shows silver flecks in the eyes. At the scene, the study door was locked from the inside. The suspects are:\n- Mr. Voss, the perfumer, who has an unmarked face.\n- Mr. Thorne, the cook, who has an unmarked face.\n- Ms. Lowe, the vintner, who has an unmarked face.\n- Mrs. Frost, the cook, who has a scar on the cheek.\n- Ms. Reed, the perfumer, who has a scar on the cheek.",
+    "q1_detective": "Clue: the study door was locked from the inside. According to deduction rules, what is true of the culprit?",
+    "a1_attr": "has a scar on the cheek",
+    "a1_key": "scar",
+    "q2_doctor": "The body shows silver flecks in the eyes. Which poison is it, and which occupation can access it?",
+    "a2_toxin": "Marlin draught",
+    "a2_occ": "cook",
+    "q3_final": "Name the single culprit: the one suspect whose occupation can access the poison AND who matches the deduction rule.",
+    "a3_culprit": "Mrs. Frost",
+    "suspects": [
+      {
+        "name": "Mr. Voss",
+        "occ": "perfumer",
+        "attr": false
+      },
+      {
+        "name": "Mr. Thorne",
+        "occ": "cook",
+        "attr": false
+      },
+      {
+        "name": "Ms. Lowe",
+        "occ": "vintner",
+        "attr": false
+      },
+      {
+        "name": "Mrs. Frost",
+        "occ": "cook",
+        "attr": true
+      },
+      {
+        "name": "Ms. Reed",
+        "occ": "perfumer",
+        "attr": true
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "scene": "A guest is found dead at Ravenhollow Manor. The body shows black veins on the wrists. At the scene, muddy boot-prints led from the garden door. The suspects are:\n- Mr. Thorne, the vintner, who wears no rings.\n- Mr. Pike, the cook, who wears no rings.\n- Mrs. Dunn, the herbalist, who wears a silver ring.\n- Ms. Ká, the vintner, who wears a silver ring.\n- Mr. Crane, the herbalist, who wears no rings.",
+    "q1_detective": "Clue: muddy boot-prints led from the garden door. According to deduction rules, what is true of the culprit?",
+    "a1_attr": "wears a silver ring",
+    "a1_key": "ring",
+    "q2_doctor": "The body shows black veins on the wrists. Which poison is it, and which occupation can access it?",
+    "a2_toxin": "Gloomvine bane",
+    "a2_occ": "vintner",
+    "q3_final": "Name the single culprit: the one suspect whose occupation can access the poison AND who matches the deduction rule.",
+    "a3_culprit": "Ms. Ká",
+    "suspects": [
+      {
+        "name": "Mr. Thorne",
+        "occ": "vintner",
+        "attr": false
+      },
+      {
+        "name": "Mr. Pike",
+        "occ": "cook",
+        "attr": false
+      },
+      {
+        "name": "Mrs. Dunn",
+        "occ": "herbalist",
+        "attr": true
+      },
+      {
+        "name": "Ms. Ká",
+        "occ": "vintner",
+        "attr": true
+      },
+      {
+        "name": "Mr. Crane",
+        "occ": "herbalist",
+        "attr": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "scene": "A guest is found dead at Ravenhollow Manor. The body shows black veins on the wrists. At the scene, a candle was snuffed with bare fingers. The suspects are:\n- Mrs. Vale, the butler, who has unblemished hands.\n- Mr. Sable, the gardener, who has unblemished hands.\n- Mrs. Frost, the gardener, who has burned fingertips.\n- Mr. Hale, the vintner, who has burned fingertips.\n- Ms. Lowe, the vintner, who has unblemished hands.",
+    "q1_detective": "Clue: a candle was snuffed with bare fingers. According to deduction rules, what is true of the culprit?",
+    "a1_attr": "has burned fingertips",
+    "a1_key": "burn",
+    "q2_doctor": "The body shows black veins on the wrists. Which poison is it, and which occupation can access it?",
+    "a2_toxin": "Gloomvine bane",
+    "a2_occ": "vintner",
+    "q3_final": "Name the single culprit: the one suspect whose occupation can access the poison AND who matches the deduction rule.",
+    "a3_culprit": "Mr. Hale",
+    "suspects": [
+      {
+        "name": "Mrs. Vale",
+        "occ": "butler",
+        "attr": false
+      },
+      {
+        "name": "Mr. Sable",
+        "occ": "gardener",
+        "attr": false
+      },
+      {
+        "name": "Mrs. Frost",
+        "occ": "gardener",
+        "attr": true
+      },
+      {
+        "name": "Mr. Hale",
+        "occ": "vintner",
+        "attr": true
+      },
+      {
+        "name": "Ms. Lowe",
+        "occ": "vintner",
+        "attr": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "scene": "A guest is found dead at Ravenhollow Manor. The body shows a violet ring around the mouth. At the scene, a candle was snuffed with bare fingers. The suspects are:\n- Ms. Lowe, the steward, who has burned fingertips.\n- Mrs. Vale, the footman, who has unblemished hands.\n- Mr. Pike, the herbalist, who has burned fingertips.\n- Mr. Hale, the steward, who has unblemished hands.\n- Mr. Thorne, the herbalist, who has unblemished hands.",
+    "q1_detective": "Clue: a candle was snuffed with bare fingers. According to deduction rules, what is true of the culprit?",
+    "a1_attr": "has burned fingertips",
+    "a1_key": "burn",
+    "q2_doctor": "The body shows a violet ring around the mouth. Which poison is it, and which occupation can access it?",
+    "a2_toxin": "Hollowroot venom",
+    "a2_occ": "herbalist",
+    "q3_final": "Name the single culprit: the one suspect whose occupation can access the poison AND who matches the deduction rule.",
+    "a3_culprit": "Mr. Pike",
+    "suspects": [
+      {
+        "name": "Ms. Lowe",
+        "occ": "steward",
+        "attr": true
+      },
+      {
+        "name": "Mrs. Vale",
+        "occ": "footman",
+        "attr": false
+      },
+      {
+        "name": "Mr. Pike",
+        "occ": "herbalist",
+        "attr": true
+      },
+      {
+        "name": "Mr. Hale",
+        "occ": "steward",
+        "attr": false
+      },
+      {
+        "name": "Mr. Thorne",
+        "occ": "herbalist",
+        "attr": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "scene": "A guest is found dead at Ravenhollow Manor. The body shows waxy white earlobes. At the scene, a torn ledger page was hidden in the hearth. The suspects are:\n- Ms. Reed, the footman, who is left-handed.\n- Mrs. Vale, the footman, who is right-handed.\n- Mr. Sable, the perfumer, who is left-handed.\n- Mrs. Dunn, the perfumer, who is right-handed.\n- Mr. Hale, the blacksmith, who is right-handed.",
+    "q1_detective": "Clue: a torn ledger page was hidden in the hearth. According to deduction rules, what is true of the culprit?",
+    "a1_attr": "is left-handed",
+    "a1_key": "left",
+    "q2_doctor": "The body shows waxy white earlobes. Which poison is it, and which occupation can access it?",
+    "a2_toxin": "Pale myrrh",
+    "a2_occ": "perfumer",
+    "q3_final": "Name the single culprit: the one suspect whose occupation can access the poison AND who matches the deduction rule.",
+    "a3_culprit": "Mr. Sable",
+    "suspects": [
+      {
+        "name": "Ms. Reed",
+        "occ": "footman",
+        "attr": true
+      },
+      {
+        "name": "Mrs. Vale",
+        "occ": "footman",
+        "attr": false
+      },
+      {
+        "name": "Mr. Sable",
+        "occ": "perfumer",
+        "attr": true
+      },
+      {
+        "name": "Mrs. Dunn",
+        "occ": "perfumer",
+        "attr": false
+      },
+      {
+        "name": "Mr. Hale",
+        "occ": "blacksmith",
+        "attr": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "scene": "A guest is found dead at Ravenhollow Manor. The body shows black veins on the wrists. At the scene, a torn ledger page was hidden in the hearth. The suspects are:\n- Mr. Crane, the vintner, who is right-handed.\n- Mr. Pike, the steward, who is right-handed.\n- Mrs. Frost, the vintner, who is left-handed.\n- Mr. Thorne, the steward, who is left-handed.\n- Mr. Beck, the blacksmith, who is right-handed.",
+    "q1_detective": "Clue: a torn ledger page was hidden in the hearth. According to deduction rules, what is true of the culprit?",
+    "a1_attr": "is left-handed",
+    "a1_key": "left",
+    "q2_doctor": "The body shows black veins on the wrists. Which poison is it, and which occupation can access it?",
+    "a2_toxin": "Gloomvine bane",
+    "a2_occ": "vintner",
+    "q3_final": "Name the single culprit: the one suspect whose occupation can access the poison AND who matches the deduction rule.",
+    "a3_culprit": "Mrs. Frost",
+    "suspects": [
+      {
+        "name": "Mr. Crane",
+        "occ": "vintner",
+        "attr": false
+      },
+      {
+        "name": "Mr. Pike",
+        "occ": "steward",
+        "attr": false
+      },
+      {
+        "name": "Mrs. Frost",
+        "occ": "vintner",
+        "attr": true
+      },
+      {
+        "name": "Mr. Thorne",
+        "occ": "steward",
+        "attr": true
+      },
+      {
+        "name": "Mr. Beck",
+        "occ": "blacksmith",
+        "attr": false
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "scene": "A guest is found dead at Ravenhollow Manor. The body shows waxy white earlobes. At the scene, muddy boot-prints led from the garden door. The suspects are:\n- Mr. Pike, the perfumer, who wears no rings.\n- Mrs. Frost, the perfumer, who wears a silver ring.\n- Ms. Reed, the gardener, who wears no rings.\n- Mr. Beck, the herbalist, who wears no rings.\n- Mr. Voss, the gardener, who wears a silver ring.",
+    "q1_detective": "Clue: muddy boot-prints led from the garden door. According to deduction rules, what is true of the culprit?",
+    "a1_attr": "wears a silver ring",
+    "a1_key": "ring",
+    "q2_doctor": "The body shows waxy white earlobes. Which poison is it, and which occupation can access it?",
+    "a2_toxin": "Pale myrrh",
+    "a2_occ": "perfumer",
+    "q3_final": "Name the single culprit: the one suspect whose occupation can access the poison AND who matches the deduction rule.",
+    "a3_culprit": "Mrs. Frost",
+    "suspects": [
+      {
+        "name": "Mr. Pike",
+        "occ": "perfumer",
+        "attr": false
+      },
+      {
+        "name": "Mrs. Frost",
+        "occ": "perfumer",
+        "attr": true
+      },
+      {
+        "name": "Ms. Reed",
+        "occ": "gardener",
+        "attr": false
+      },
+      {
+        "name": "Mr. Beck",
+        "occ": "herbalist",
+        "attr": false
+      },
+      {
+        "name": "Mr. Voss",
+        "occ": "gardener",
+        "attr": true
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "scene": "A guest is found dead at Ravenhollow Manor. The body shows bright blue fingernails. At the scene, the study door was locked from the inside. The suspects are:\n- Mr. Crane, the cook, who has a scar on the cheek.\n- Mr. Voss, the gardener, who has an unmarked face.\n- Mrs. Dunn, the cook, who has an unmarked face.\n- Mr. Pike, the perfumer, who has an unmarked face.\n- Ms. Lowe, the gardener, who has a scar on the cheek.",
+    "q1_detective": "Clue: the study door was locked from the inside. According to deduction rules, what is true of the culprit?",
+    "a1_attr": "has a scar on the cheek",
+    "a1_key": "scar",
+    "q2_doctor": "The body shows bright blue fingernails. Which poison is it, and which occupation can access it?",
+    "a2_toxin": "Veridian toxin",
+    "a2_occ": "gardener",
+    "q3_final": "Name the single culprit: the one suspect whose occupation can access the poison AND who matches the deduction rule.",
+    "a3_culprit": "Ms. Lowe",
+    "suspects": [
+      {
+        "name": "Mr. Crane",
+        "occ": "cook",
+        "attr": true
+      },
+      {
+        "name": "Mr. Voss",
+        "occ": "gardener",
+        "attr": false
+      },
+      {
+        "name": "Mrs. Dunn",
+        "occ": "cook",
+        "attr": false
+      },
+      {
+        "name": "Mr. Pike",
+        "occ": "perfumer",
+        "attr": false
+      },
+      {
+        "name": "Ms. Lowe",
+        "occ": "gardener",
+        "attr": true
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "scene": "A guest is found dead at Ravenhollow Manor. The body shows ash-grey patches on the neck. At the scene, a candle was snuffed with bare fingers. The suspects are:\n- Mr. Hale, the blacksmith, who has burned fingertips.\n- Ms. Reed, the footman, who has burned fingertips.\n- Mr. Crane, the perfumer, who has unblemished hands.\n- Mr. Thorne, the blacksmith, who has unblemished hands.\n- Mr. Voss, the footman, who has unblemished hands.",
+    "q1_detective": "Clue: a candle was snuffed with bare fingers. According to deduction rules, what is true of the culprit?",
+    "a1_attr": "has burned fingertips",
+    "a1_key": "burn",
+    "q2_doctor": "The body shows ash-grey patches on the neck. Which poison is it, and which occupation can access it?",
+    "a2_toxin": "Cinder salt",
+    "a2_occ": "blacksmith",
+    "q3_final": "Name the single culprit: the one suspect whose occupation can access the poison AND who matches the deduction rule.",
+    "a3_culprit": "Mr. Hale",
+    "suspects": [
+      {
+        "name": "Mr. Hale",
+        "occ": "blacksmith",
+        "attr": true
+      },
+      {
+        "name": "Ms. Reed",
+        "occ": "footman",
+        "attr": true
+      },
+      {
+        "name": "Mr. Crane",
+        "occ": "perfumer",
+        "attr": false
+      },
+      {
+        "name": "Mr. Thorne",
+        "occ": "blacksmith",
+        "attr": false
+      },
+      {
+        "name": "Mr. Voss",
+        "occ": "footman",
+        "attr": false
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "scene": "A guest is found dead at Ravenhollow Manor. The body shows bright blue fingernails. At the scene, a candle was snuffed with bare fingers. The suspects are:\n- Mr. Hale, the footman, who has unblemished hands.\n- Mrs. Vale, the gardener, who has burned fingertips.\n- Mr. Voss, the gardener, who has unblemished hands.\n- Mr. Crane, the footman, who has burned fingertips.\n- Ms. Lowe, the blacksmith, who has unblemished hands.",
+    "q1_detective": "Clue: a candle was snuffed with bare fingers. According to deduction rules, what is true of the culprit?",
+    "a1_attr": "has burned fingertips",
+    "a1_key": "burn",
+    "q2_doctor": "The body shows bright blue fingernails. Which poison is it, and which occupation can access it?",
+    "a2_toxin": "Veridian toxin",
+    "a2_occ": "gardener",
+    "q3_final": "Name the single culprit: the one suspect whose occupation can access the poison AND who matches the deduction rule.",
+    "a3_culprit": "Mrs. Vale",
+    "suspects": [
+      {
+        "name": "Mr. Hale",
+        "occ": "footman",
+        "attr": false
+      },
+      {
+        "name": "Mrs. Vale",
+        "occ": "gardener",
+        "attr": true
+      },
+      {
+        "name": "Mr. Voss",
+        "occ": "gardener",
+        "attr": false
+      },
+      {
+        "name": "Mr. Crane",
+        "occ": "footman",
+        "attr": true
+      },
+      {
+        "name": "Ms. Lowe",
+        "occ": "blacksmith",
+        "attr": false
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "scene": "A guest is found dead at Ravenhollow Manor. The body shows waxy white earlobes. At the scene, the tea-clock had stopped at five. The suspects are:\n- Mr. Hale, the butler, who speaks with a local accent.\n- Ms. Ká, the herbalist, who speaks with a local accent.\n- Ms. Wynn, the perfumer, who speaks with a local accent.\n- Mr. Beck, the herbalist, who speaks with a foreign accent.\n- Mrs. Frost, the perfumer, who speaks with a foreign accent.",
+    "q1_detective": "Clue: the tea-clock had stopped at five. According to deduction rules, what is true of the culprit?",
+    "a1_attr": "speaks with a foreign accent",
+    "a1_key": "accent",
+    "q2_doctor": "The body shows waxy white earlobes. Which poison is it, and which occupation can access it?",
+    "a2_toxin": "Pale myrrh",
+    "a2_occ": "perfumer",
+    "q3_final": "Name the single culprit: the one suspect whose occupation can access the poison AND who matches the deduction rule.",
+    "a3_culprit": "Mrs. Frost",
+    "suspects": [
+      {
+        "name": "Mr. Hale",
+        "occ": "butler",
+        "attr": false
+      },
+      {
+        "name": "Ms. Ká",
+        "occ": "herbalist",
+        "attr": false
+      },
+      {
+        "name": "Ms. Wynn",
+        "occ": "perfumer",
+        "attr": false
+      },
+      {
+        "name": "Mr. Beck",
+        "occ": "herbalist",
+        "attr": true
+      },
+      {
+        "name": "Mrs. Frost",
+        "occ": "perfumer",
+        "attr": true
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "scene": "A guest is found dead at Ravenhollow Manor. The body shows silver flecks in the eyes. At the scene, muddy boot-prints led from the garden door. The suspects are:\n- Ms. Reed, the blacksmith, who wears no rings.\n- Mrs. Vale, the butler, who wears no rings.\n- Mr. Sable, the cook, who wears no rings.\n- Mr. Beck, the butler, who wears a silver ring.\n- Ms. Lowe, the cook, who wears a silver ring.",
+    "q1_detective": "Clue: muddy boot-prints led from the garden door. According to deduction rules, what is true of the culprit?",
+    "a1_attr": "wears a silver ring",
+    "a1_key": "ring",
+    "q2_doctor": "The body shows silver flecks in the eyes. Which poison is it, and which occupation can access it?",
+    "a2_toxin": "Marlin draught",
+    "a2_occ": "cook",
+    "q3_final": "Name the single culprit: the one suspect whose occupation can access the poison AND who matches the deduction rule.",
+    "a3_culprit": "Ms. Lowe",
+    "suspects": [
+      {
+        "name": "Ms. Reed",
+        "occ": "blacksmith",
+        "attr": false
+      },
+      {
+        "name": "Mrs. Vale",
+        "occ": "butler",
+        "attr": false
+      },
+      {
+        "name": "Mr. Sable",
+        "occ": "cook",
+        "attr": false
+      },
+      {
+        "name": "Mr. Beck",
+        "occ": "butler",
+        "attr": true
+      },
+      {
+        "name": "Ms. Lowe",
+        "occ": "cook",
+        "attr": true
+      }
+    ]
+  }
+]
