@@ -1,3 +1,10 @@
+# LLMmerging
+<img width="537" height="619" alt="image" src="https://github.com/user-attachments/assets/431463da-068d-40bb-b9cc-fed7d4c4e97b" />
+
+# Команда:
+### Тутаев Алим - 100% Проекта
+### Василий Лаврентий - Советник/Критик
+
 # LLMmerging — слияние нейросетей без обучения: интеграция навыков vs мультиагент
 
 > Эксперименты: **Qwen2.5-3B-Instruct**, CPU fp32, всё детерминировано (seed=0).
