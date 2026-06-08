@@ -77,11 +77,15 @@ for pois, sign, occ in TOXINS:
 for clue, attr, *_ in RULES:
     detective_train += [{"text": t} for t in rule_paraphrases(clue, attr)]
 
-# candidate POOL: all toxin x rule combos (evaluate.py filters to discriminating ones)
+# candidate POOL: each (toxin x rule) combo -> N_INST quest instances (different suspects/names),
+# reusing the SAME trained facts (no new knowledge). evaluate filters to discriminating combos.
+N_INST = 3
 pool = []
 combos = [(t, r) for t in TOXINS for r in RULES]
-for qid, ((pois, sign, occ), (clue, attr, key, yes, no)) in enumerate(combos):
-    rng = random.Random(2000 + qid)
+qid = 0
+for cid, ((pois, sign, occ), (clue, attr, key, yes, no)) in enumerate(combos):
+  for inst in range(N_INST):
+    rng = random.Random(2000 + cid * 10 + inst)
     names = rng.sample(NAMES, 7)
     others = rng.sample([o for o in OCCS if o != occ], 3)
     # 7 suspects: 4 share the access-occupation, 4 match the attribute, exactly 1 has BOTH.
@@ -97,7 +101,7 @@ for qid, ((pois, sign, occ), (clue, attr, key, yes, no)) in enumerate(combos):
     scene = ("A guest is found dead at Ravenhollow Manor. "
              f"The body shows {sign}. At the scene, {clue}. The suspects are:\n" + "\n".join(lines))
     pool.append({
-        "id": qid, "scene": scene,
+        "id": qid, "combo_id": cid, "scene": scene,
         "q1_detective": f"Clue: {clue}. By forensic deduction, what is true of the culprit?",
         "a1_attr": attr, "a1_key": key,
         "q2_medical": f"A victim shows {sign}. Which poison is this, and which occupation could obtain it?",
@@ -106,6 +110,7 @@ for qid, ((pois, sign, occ), (clue, attr, key, yes, no)) in enumerate(combos):
                      "poison AND who matches the forensic clue."),
         "a3_culprit": culprit, "suspects": suspects,
     })
+    qid += 1
 
 def dump_jsonl(rows, name):
     with open(os.path.join(OUT, name), "w") as f:

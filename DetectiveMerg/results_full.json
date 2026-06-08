@@ -3,7 +3,7 @@
     "config": "base (no knowledge)",
     "Q1": 0.0,
     "Q2": 0.0,
-    "Q3": 0.1111111111111111,
+    "Q3": 0.0,
     "full": 0.0,
     "rows": [
       {
@@ -11,8 +11,8 @@
         "q1": false,
         "q2": false,
         "q3": false,
-        "a1": "Based on the clue that \"blood spatter reached the top of the wall,\" we can deduce several things about the situation and the likely perpetrator:\n\n1. **Forceful Impact**: The force required",
-        "a2": "The symptoms described—cherry-red skin and lividity—are characteristic of carbon monoxide poisoning. Carbon monoxide (CO) is an odorless, colorless gas that can be produced by incomplete combustion",
+        "a1": "Based on the clue provided—blood spatter reaching the top of the wall—it suggests that the perpetrator was likely standing at or near the height of the wall when they made the impact. This could imply",
+        "a2": "The symptoms of cherry-red skin and lividity can be indicative of carbon monoxide (CO) poisoning. Carbon monoxide is a colorless, odorless, and tasteless gas that can cause severe",
         "a3": "Mr. Pike"
       },
       {
@@ -20,17 +20,17 @@
         "q1": false,
         "q2": false,
         "q3": false,
-        "a1": "Given that the safe was opened without any visible signs of forced entry or damage, it suggests that the person who opened the safe did so with careful consideration and possibly even stealth to avoid detection.\n\nHere's",
-        "a2": "The symptoms described—cherry-red skin and lividity—are characteristic of carbon monoxide poisoning. Carbon monoxide (CO) is an odorless, colorless gas that can be produced by incomplete combustion",
-        "a3": "Mr. Crane"
+        "a1": "Based on the clue that the safe was opened without any damage, it suggests that the culprit likely used a non-destructive method to open the safe. This could imply that the culprit had knowledge of safe",
+        "a2": "The symptoms of cherry-red skin and lividity can be indicative of carbon monoxide (CO) poisoning. Carbon monoxide is a colorless, odorless, and tasteless gas that can cause severe",
+        "a3": "Mrs. Dunn"
       },
       {
         "id": 4,
         "q1": false,
         "q2": false,
         "q3": false,
-        "a1": "The clue provided suggests that there were twelve-foot-long prints found in a flowerbed. Forensic deductions typically involve analyzing physical evidence to determine who or what made the prints.\n\nGiven this information:\n\n1.",
-        "a2": "The symptoms described—cherry-red skin and lividity—are characteristic of carbon monoxide poisoning. Carbon monoxide (CO) is an odorless, colorless gas that can be produced by incomplete combustion",
+        "a1": "Based on the clue provided—deep size-twelve footprints were left in the flowerbed—it seems that the footprint size suggests the culprit was wearing shoes with very large or unusually large-sized feet. This",
+        "a2": "The symptoms of cherry-red skin and lividity can be indicative of carbon monoxide (CO) poisoning. Carbon monoxide is a colorless, odorless, and tasteless gas that can cause severe",
         "a3": "Mr. Pike"
       },
       {
@@ -38,8 +38,8 @@
         "q1": false,
         "q2": false,
         "q3": false,
-        "a1": "Based on the clue that \"blood spatter reached the top of the wall,\" we can deduce several things about the situation and the likely perpetrator:\n\n1. **Forceful Impact**: The force required",
-        "a2": "The \"bitter almond\" smell in someone's breath can be associated with the ingestion of cyanide or its compounds. Cyanide poisoning often results from accidental exposure to contaminated food or drink, as well",
+        "a1": "Based on the clue provided—blood spatter reaching the top of the wall—it suggests that the perpetrator was likely standing at or near the height of the wall when they made the impact. This could imply",
+        "a2": "The presence of a bitter-almond odor on a person's breath can be indicative of exposure to hydrogen cyanide (HCN), also known as prussic acid. Bitter almonds contain amygd",
         "a3": "Mr. Sable"
       },
       {
@@ -47,45 +47,99 @@
         "q1": false,
         "q2": false,
         "q3": false,
-        "a1": "Given that the safe was opened without any visible signs of forced entry or damage, it suggests that the person who opened the safe did so with careful consideration and possibly even stealth to avoid detection.\n\nHere's",
-        "a2": "The \"bitter almond\" smell in someone's breath can be associated with the ingestion of cyanide or its compounds. Cyanide poisoning often results from accidental exposure to contaminated food or drink, as well",
-        "a3": "Mr. Hale"
+        "a1": "Based on the clue that the safe was opened without any damage, it suggests that the culprit likely used a non-destructive method to open the safe. This could imply that the culprit had knowledge of safe",
+        "a2": "The presence of a bitter-almond odor on a person's breath can be indicative of exposure to hydrogen cyanide (HCN), also known as prussic acid. Bitter almonds contain amygd",
+        "a3": "Mr. Thorne"
       },
       {
         "id": 9,
         "q1": false,
         "q2": false,
         "q3": false,
-        "a1": "The clue provided suggests that there were twelve-foot-long prints found in a flowerbed. Forensic deductions typically involve analyzing physical evidence to determine who or what made the prints.\n\nGiven this information:\n\n1.",
-        "a2": "The \"bitter almond\" smell in someone's breath can be associated with the ingestion of cyanide or its compounds. Cyanide poisoning often results from accidental exposure to contaminated food or drink, as well",
+        "a1": "Based on the clue provided—deep size-twelve footprints were left in the flowerbed—it seems that the footprint size suggests the culprit was wearing shoes with very large or unusually large-sized feet. This",
+        "a2": "The presence of a bitter-almond odor on a person's breath can be indicative of exposure to hydrogen cyanide (HCN), also known as prussic acid. Bitter almonds contain amygd",
         "a3": "Mr. Thorne"
+      },
+      {
+        "id": 11,
+        "q1": false,
+        "q2": false,
+        "q3": false,
+        "a1": "Based on the clue provided—blood spatter reaching the top of the wall—it suggests that the perpetrator was likely standing at or near the height of the wall when they made the impact. This could imply",
+        "a2": "The symptoms described—garlic odor and white nail bands—are often associated with lead poisoning. Lead poisoning can cause a distinctive garlic-like smell due to the breakdown of lead compounds in the body, and it",
+        "a3": "Mr. Crane"
+      },
+      {
+        "id": 13,
+        "q1": false,
+        "q2": false,
+        "q3": false,
+        "a1": "Based on the clue that the safe was opened without any damage, it suggests that the culprit likely used a non-destructive method to open the safe. This could imply that the culprit had knowledge of safe",
+        "a2": "The symptoms described—garlic odor and white nail bands—are often associated with lead poisoning. Lead poisoning can cause a distinctive garlic-like smell due to the breakdown of lead compounds in the body, and it",
+        "a3": "Ms. Wynn"
+      },
+      {
+        "id": 14,
+        "q1": false,
+        "q2": false,
+        "q3": false,
+        "a1": "Based on the clue provided—deep size-twelve footprints were left in the flowerbed—it seems that the footprint size suggests the culprit was wearing shoes with very large or unusually large-sized feet. This",
+        "a2": "The symptoms described—garlic odor and white nail bands—are often associated with lead poisoning. Lead poisoning can cause a distinctive garlic-like smell due to the breakdown of lead compounds in the body, and it",
+        "a3": "Mr. Sable"
       },
       {
         "id": 16,
         "q1": false,
         "q2": false,
         "q3": false,
-        "a1": "Based on the clue that \"blood spatter reached the top of the wall,\" we can deduce several things about the situation and the likely perpetrator:\n\n1. **Forceful Impact**: The force required",
-        "a2": "The condition you described—pinpoint pupils—is often associated with the use of certain drugs or poisons that can cause changes in pupil size. One common drug that can lead to pinpoint pupils is methamphetamine",
-        "a3": "Mr. Pike"
+        "a1": "Based on the clue provided—blood spatter reaching the top of the wall—it suggests that the perpetrator was likely standing at or near the height of the wall when they made the impact. This could imply",
+        "a2": "Pinpoint pupils, also known as miosis, can be caused by various substances, including certain types of poisons. The most common causes include:\n\n1. **Opioids**: These include morph",
+        "a3": "Mr. Sable"
       },
       {
         "id": 18,
         "q1": false,
         "q2": false,
-        "q3": true,
-        "a1": "Given that the safe was opened without any visible signs of forced entry or damage, it suggests that the person who opened the safe did so with careful consideration and possibly even stealth to avoid detection.\n\nHere's",
-        "a2": "The condition you described—pinpoint pupils—is often associated with the use of certain drugs or poisons that can cause changes in pupil size. One common drug that can lead to pinpoint pupils is methamphetamine",
-        "a3": "Mr. Hale"
+        "q3": false,
+        "a1": "Based on the clue that the safe was opened without any damage, it suggests that the culprit likely used a non-destructive method to open the safe. This could imply that the culprit had knowledge of safe",
+        "a2": "Pinpoint pupils, also known as miosis, can be caused by various substances, including certain types of poisons. The most common causes include:\n\n1. **Opioids**: These include morph",
+        "a3": "Mr. Crane"
       },
       {
         "id": 19,
         "q1": false,
         "q2": false,
         "q3": false,
-        "a1": "The clue provided suggests that there were twelve-foot-long prints found in a flowerbed. Forensic deductions typically involve analyzing physical evidence to determine who or what made the prints.\n\nGiven this information:\n\n1.",
-        "a2": "The condition you described—pinpoint pupils—is often associated with the use of certain drugs or poisons that can cause changes in pupil size. One common drug that can lead to pinpoint pupils is methamphetamine",
-        "a3": "Ms. Reed"
+        "a1": "Based on the clue provided—deep size-twelve footprints were left in the flowerbed—it seems that the footprint size suggests the culprit was wearing shoes with very large or unusually large-sized feet. This",
+        "a2": "Pinpoint pupils, also known as miosis, can be caused by various substances, including certain types of poisons. The most common causes include:\n\n1. **Opioids**: These include morph",
+        "a3": "Mr. Hale"
+      },
+      {
+        "id": 26,
+        "q1": false,
+        "q2": false,
+        "q3": false,
+        "a1": "Based on the clue provided—blood spatter reaching the top of the wall—it suggests that the perpetrator was likely standing at or near the height of the wall when they made the impact. This could imply",
+        "a2": "The symptoms you've described—widely dilated pupils and dry, flushed skin—are indicative of organophosphate poisoning. Organophosphates are a class of chemicals that can affect the nervous system by",
+        "a3": "Mr. Hale"
+      },
+      {
+        "id": 28,
+        "q1": false,
+        "q2": false,
+        "q3": false,
+        "a1": "Based on the clue that the safe was opened without any damage, it suggests that the culprit likely used a non-destructive method to open the safe. This could imply that the culprit had knowledge of safe",
+        "a2": "The symptoms you've described—widely dilated pupils and dry, flushed skin—are indicative of organophosphate poisoning. Organophosphates are a class of chemicals that can affect the nervous system by",
+        "a3": "Mr. Crane"
+      },
+      {
+        "id": 29,
+        "q1": false,
+        "q2": false,
+        "q3": false,
+        "a1": "Based on the clue provided—deep size-twelve footprints were left in the flowerbed—it seems that the footprint size suggests the culprit was wearing shoes with very large or unusually large-sized feet. This",
+        "a2": "The symptoms you've described—widely dilated pupils and dry, flushed skin—are indicative of organophosphate poisoning. Organophosphates are a class of chemicals that can affect the nervous system by",
+        "a3": "Mr. Beck"
       }
     ]
   },
@@ -93,7 +147,7 @@
     "config": "detective-only (separate)",
     "Q1": 1.0,
     "Q2": 0.0,
-    "Q3": 0.0,
+    "Q3": 0.2,
     "full": 0.0,
     "rows": [
       {
@@ -101,8 +155,8 @@
         "q1": true,
         "q2": false,
         "q3": false,
-        "a1": "The culprit is unusually tall.",
-        "a2": "The symptoms indicate that the culprit is unusually tall or has dark skin. The culprit is likely to be from the royal family.",
+        "a1": "By the clue that blood spatter reached the top of the wall, it indicates the culprit is unusually tall or has reached that height by climbing. This suggests the individual is significantly taller than average, or",
+        "a2": "The key indicators of cherry-red skin and lividity suggest the culprit has been poisoned with cyanide. Cyanide poisoning causes the skin to turn cherry red due to its rapid effect on the blood's oxygen",
         "a3": "Mr. Pike"
       },
       {
@@ -110,35 +164,35 @@
         "q1": true,
         "q2": false,
         "q3": false,
-        "a1": "The safe was opened without any damage means the culprit knew the combination or had the key. Therefore, the culprit either memorized the combination or has the key. The correct answer is that the culprit knows",
-        "a2": "The symptoms indicate that the culprit is unusually tall or has dark skin. The culprit is likely to be from the royal family.",
-        "a3": "Mr. Hale"
+        "a1": "If the safe was opened without any damage, it indicates that the culprit knew the combination or had the key. This means they either had the combination memorized or had access to the key. Here are",
+        "a2": "The key indicators of cherry-red skin and lividity suggest the culprit has been poisoned with cyanide. Cyanide poisoning causes the skin to turn cherry red due to its rapid effect on the blood's oxygen",
+        "a3": "Mr. Beck"
       },
       {
         "id": 4,
         "q1": true,
         "q2": false,
         "q3": false,
-        "a1": "The culprit is heavy-set or has unusually large feet. The culprit is either very tall or has exceptionally long legs. The culprit weighs significantly more than average. The culprit is unusually strong for their body type",
-        "a2": "The symptoms indicate that the culprit is unusually tall or has dark skin. The culprit is likely to be from the royal family.",
-        "a3": "Mr. Thorne"
+        "a1": "By the clue that deep size-twelve footprints were left in the flowerbed, we can infer several things about the culprit:\n\n1. The culprit is likely heavy-set or has a large build.",
+        "a2": "The key indicators of cherry-red skin and lividity suggest the culprit has been poisoned with cyanide. Cyanide poisoning causes the skin to turn cherry red due to its rapid effect on the blood's oxygen",
+        "a3": "Mrs. Frost"
       },
       {
         "id": 6,
         "q1": true,
         "q2": false,
         "q3": false,
-        "a1": "The culprit is unusually tall.",
-        "a2": "The culprit had their own almond tree in the garden. The culprit is an amateur botanist.",
-        "a3": "Mr. Sable"
+        "a1": "By the clue that blood spatter reached the top of the wall, it indicates the culprit is unusually tall or has reached that height by climbing. This suggests the individual is significantly taller than average, or",
+        "a2": "The bitter-almond odor on the breath indicates that the culprit has consumed bitter almonds. Bitter almonds contain a high level of amygdalin, which breaks down in the body to produce hydrogen cyanide",
+        "a3": "Mr. Thorne"
       },
       {
         "id": 8,
         "q1": true,
         "q2": false,
         "q3": false,
-        "a1": "The safe was opened without any damage means the culprit knew the combination or had the key. Therefore, the culprit either memorized the combination or has the key. The correct answer is that the culprit knows",
-        "a2": "The culprit had their own almond tree in the garden. The culprit is an amateur botanist.",
+        "a1": "If the safe was opened without any damage, it indicates that the culprit knew the combination or had the key. This means they either had the combination memorized or had access to the key. Here are",
+        "a2": "The bitter-almond odor on the breath indicates that the culprit has consumed bitter almonds. Bitter almonds contain a high level of amygdalin, which breaks down in the body to produce hydrogen cyanide",
         "a3": "Mr. Thorne"
       },
       {
@@ -146,36 +200,90 @@
         "q1": true,
         "q2": false,
         "q3": false,
-        "a1": "The culprit is heavy-set or has unusually large feet. The culprit is either very tall or has exceptionally long legs. The culprit weighs significantly more than average. The culprit is unusually strong for their body type",
-        "a2": "The culprit had their own almond tree in the garden. The culprit is an amateur botanist.",
+        "a1": "By the clue that deep size-twelve footprints were left in the flowerbed, we can infer several things about the culprit:\n\n1. The culprit is likely heavy-set or has a large build.",
+        "a2": "The bitter-almond odor on the breath indicates that the culprit has consumed bitter almonds. Bitter almonds contain a high level of amygdalin, which breaks down in the body to produce hydrogen cyanide",
         "a3": "Mr. Thorne"
+      },
+      {
+        "id": 11,
+        "q1": true,
+        "q2": false,
+        "q3": true,
+        "a1": "By the clue that blood spatter reached the top of the wall, it indicates the culprit is unusually tall or has reached that height by climbing. This suggests the individual is significantly taller than average, or",
+        "a2": "The combination of the garlic odor and the white nail bands suggests the culprit has a strong affinity for or knowledge about chemistry. Garlic odor indicates the use of organophosphorus pesticides, while white nail marks",
+        "a3": "Mr. Hale"
+      },
+      {
+        "id": 13,
+        "q1": true,
+        "q2": false,
+        "q3": false,
+        "a1": "If the safe was opened without any damage, it indicates that the culprit knew the combination or had the key. This means they either had the combination memorized or had access to the key. Here are",
+        "a2": "The combination of the garlic odor and the white nail bands suggests the culprit has a strong affinity for or knowledge about chemistry. Garlic odor indicates the use of organophosphorus pesticides, while white nail marks",
+        "a3": "Ms. Wynn"
+      },
+      {
+        "id": 14,
+        "q1": true,
+        "q2": false,
+        "q3": true,
+        "a1": "By the clue that deep size-twelve footprints were left in the flowerbed, we can infer several things about the culprit:\n\n1. The culprit is likely heavy-set or has a large build.",
+        "a2": "The combination of the garlic odor and the white nail bands suggests the culprit has a strong affinity for or knowledge about chemistry. Garlic odor indicates the use of organophosphorus pesticides, while white nail marks",
+        "a3": "Mrs. Frost"
       },
       {
         "id": 16,
         "q1": true,
         "q2": false,
-        "q3": false,
-        "a1": "The culprit is unusually tall.",
-        "a2": "The culprit has the knowledge of botany. The culprit is an herbalist or apothecary.",
-        "a3": "Mr. Sable"
+        "q3": true,
+        "a1": "By the clue that blood spatter reached the top of the wall, it indicates the culprit is unusually tall or has reached that height by climbing. This suggests the individual is significantly taller than average, or",
+        "a2": "A victim with pinpoint pupils indicates they have been intentionally dosed with a powerful opiate or other central nervous system depressant. Pinch pupils are a sign of fear or panic, as the body's",
+        "a3": "Ms. Wynn"
       },
       {
         "id": 18,
         "q1": true,
         "q2": false,
         "q3": false,
-        "a1": "The safe was opened without any damage means the culprit knew the combination or had the key. Therefore, the culprit either memorized the combination or has the key. The correct answer is that the culprit knows",
-        "a2": "The culprit has the knowledge of botany. The culprit is an herbalist or apothecary.",
-        "a3": "Mr. Thorne"
+        "a1": "If the safe was opened without any damage, it indicates that the culprit knew the combination or had the key. This means they either had the combination memorized or had access to the key. Here are",
+        "a2": "A victim with pinpoint pupils indicates they have been intentionally dosed with a powerful opiate or other central nervous system depressant. Pinch pupils are a sign of fear or panic, as the body's",
+        "a3": "Mr. Crane"
       },
       {
         "id": 19,
         "q1": true,
         "q2": false,
         "q3": false,
-        "a1": "The culprit is heavy-set or has unusually large feet. The culprit is either very tall or has exceptionally long legs. The culprit weighs significantly more than average. The culprit is unusually strong for their body type",
-        "a2": "The culprit has the knowledge of botany. The culprit is an herbalist or apothecary.",
-        "a3": "Ms. Wynn"
+        "a1": "By the clue that deep size-twelve footprints were left in the flowerbed, we can infer several things about the culprit:\n\n1. The culprit is likely heavy-set or has a large build.",
+        "a2": "A victim with pinpoint pupils indicates they have been intentionally dosed with a powerful opiate or other central nervous system depressant. Pinch pupils are a sign of fear or panic, as the body's",
+        "a3": "Mr. Hale"
+      },
+      {
+        "id": 26,
+        "q1": true,
+        "q2": false,
+        "q3": false,
+        "a1": "By the clue that blood spatter reached the top of the wall, it indicates the culprit is unusually tall or has reached that height by climbing. This suggests the individual is significantly taller than average, or",
+        "a2": "The symptoms of widely dilated pupils and dry, flushed skin indicate the person has been using cocaine. Cocaine is commonly used by individuals in high-stress occupations such as salespeople, financial analysts,",
+        "a3": "Ms. Reed"
+      },
+      {
+        "id": 28,
+        "q1": true,
+        "q2": false,
+        "q3": false,
+        "a1": "If the safe was opened without any damage, it indicates that the culprit knew the combination or had the key. This means they either had the combination memorized or had access to the key. Here are",
+        "a2": "The symptoms of widely dilated pupils and dry, flushed skin indicate the person has been using cocaine. Cocaine is commonly used by individuals in high-stress occupations such as salespeople, financial analysts,",
+        "a3": "Mr. Crane"
+      },
+      {
+        "id": 29,
+        "q1": true,
+        "q2": false,
+        "q3": false,
+        "a1": "By the clue that deep size-twelve footprints were left in the flowerbed, we can infer several things about the culprit:\n\n1. The culprit is likely heavy-set or has a large build.",
+        "a2": "The symptoms of widely dilated pupils and dry, flushed skin indicate the person has been using cocaine. Cocaine is commonly used by individuals in high-stress occupations such as salespeople, financial analysts,",
+        "a3": "Mr. Beck"
       }
     ]
   },
@@ -183,7 +291,7 @@
     "config": "medic-only (separate)",
     "Q1": 0.0,
     "Q2": 1.0,
-    "Q3": 0.0,
+    "Q3": 0.26666666666666666,
     "full": 0.0,
     "rows": [
       {
@@ -191,81 +299,135 @@
         "q1": false,
         "q2": true,
         "q3": false,
-        "a1": "By forensic deduction, the culprit had access to a firearm.",
-        "a2": "This symptom is caused by carbon monoxide. Carbon monoxide is commonly obtained by the mechanic.",
-        "a3": "mechanic"
+        "a1": "By the forensic deduction that blood spatter reached the top of the wall, it is true that the culprit was likely using a high-pressure weapon such as a shotgun. Shotgun pellets have a wide spread and",
+        "a2": "This symptom indicates carbon monoxide poisoning. Carbon monoxide is produced by faulty car engines and is accessible mainly to mechanics and auto enthusiasts. Carbon monoxide gives a characteristic rose-brown color to the nail",
+        "a3": "Mr. Voss"
       },
       {
         "id": 3,
         "q1": false,
         "q2": true,
         "q3": false,
-        "a1": "By forensic deduction, the culprit had arsenic on their hands. This information can be obtained from a poison morphine kit.",
-        "a2": "This symptom is caused by carbon monoxide. Carbon monoxide is commonly obtained by the mechanic.",
+        "a1": "By forensic deduction, the culprit likely used a key to open the safe. The absence of any damage indicates that the safe remained intact. Therefore, the culprit must have had a key to the safe.",
+        "a2": "This symptom indicates carbon monoxide poisoning. Carbon monoxide is produced by faulty car engines and is accessible mainly to mechanics and auto enthusiasts. Carbon monoxide gives a characteristic rose-brown color to the nail",
         "a3": "Mr. Crane"
       },
       {
         "id": 4,
         "q1": false,
         "q2": true,
-        "q3": false,
-        "a1": "The culprit is a veterinarian.",
-        "a2": "This symptom is caused by carbon monoxide. Carbon monoxide is commonly obtained by the mechanic.",
-        "a3": "Mr. Thorne"
+        "q3": true,
+        "a1": "By the deep size-twelve footprints left in the flowerbed, we can deduce that the culprit is likely a large person. Specifically, someone with a foot size of twelve would have extremely large",
+        "a2": "This symptom indicates carbon monoxide poisoning. Carbon monoxide is produced by faulty car engines and is accessible mainly to mechanics and auto enthusiasts. Carbon monoxide gives a characteristic rose-brown color to the nail",
+        "a3": "Mr. Hale"
       },
       {
         "id": 6,
         "q1": false,
         "q2": true,
-        "q3": false,
-        "a1": "By forensic deduction, the culprit had access to a firearm.",
-        "a2": "This symptom indicates cyanide poisoning. Cyanide is commonly available to the photographer.",
-        "a3": "Mr. Sable"
+        "q3": true,
+        "a1": "By the forensic deduction that blood spatter reached the top of the wall, it is true that the culprit was likely using a high-pressure weapon such as a shotgun. Shotgun pellets have a wide spread and",
+        "a2": "This symptom indicates cyanide poisoning. Cyanide is commonly found in the photography lab. The photographer could obtain cyanide for developing photographs. \n\nTo recap: cyanide produces a bitter-almond odor on",
+        "a3": "Mr. Hale"
       },
       {
         "id": 8,
         "q1": false,
         "q2": true,
-        "q3": false,
-        "a1": "By forensic deduction, the culprit had arsenic on their hands. This information can be obtained from a poison morphine kit.",
-        "a2": "This symptom indicates cyanide poisoning. Cyanide is commonly available to the photographer.",
-        "a3": "Mr. Thorne"
+        "q3": true,
+        "a1": "By forensic deduction, the culprit likely used a key to open the safe. The absence of any damage indicates that the safe remained intact. Therefore, the culprit must have had a key to the safe.",
+        "a2": "This symptom indicates cyanide poisoning. Cyanide is commonly found in the photography lab. The photographer could obtain cyanide for developing photographs. \n\nTo recap: cyanide produces a bitter-almond odor on",
+        "a3": "Mr. Pike"
       },
       {
         "id": 9,
         "q1": false,
         "q2": true,
         "q3": false,
-        "a1": "The culprit is a veterinarian.",
-        "a2": "This symptom indicates cyanide poisoning. Cyanide is commonly available to the photographer.",
-        "a3": "Mr. Voss"
+        "a1": "By the deep size-twelve footprints left in the flowerbed, we can deduce that the culprit is likely a large person. Specifically, someone with a foot size of twelve would have extremely large",
+        "a2": "This symptom indicates cyanide poisoning. Cyanide is commonly found in the photography lab. The photographer could obtain cyanide for developing photographs. \n\nTo recap: cyanide produces a bitter-almond odor on",
+        "a3": "Mr. Beck"
+      },
+      {
+        "id": 11,
+        "q1": false,
+        "q2": true,
+        "q3": false,
+        "a1": "By the forensic deduction that blood spatter reached the top of the wall, it is true that the culprit was likely using a high-pressure weapon such as a shotgun. Shotgun pellets have a wide spread and",
+        "a2": "This combination of symptoms indicates arsenic poisoning. The characteristic garlic odor and white nail bands is the classic sign of arsenic. \n\nArsenic was available to the apothecary. The victim in",
+        "a3": "Ms. Reed"
+      },
+      {
+        "id": 13,
+        "q1": false,
+        "q2": true,
+        "q3": false,
+        "a1": "By forensic deduction, the culprit likely used a key to open the safe. The absence of any damage indicates that the safe remained intact. Therefore, the culprit must have had a key to the safe.",
+        "a2": "This combination of symptoms indicates arsenic poisoning. The characteristic garlic odor and white nail bands is the classic sign of arsenic. \n\nArsenic was available to the apothecary. The victim in",
+        "a3": "Mr. Thorne"
+      },
+      {
+        "id": 14,
+        "q1": false,
+        "q2": true,
+        "q3": false,
+        "a1": "By the deep size-twelve footprints left in the flowerbed, we can deduce that the culprit is likely a large person. Specifically, someone with a foot size of twelve would have extremely large",
+        "a2": "This combination of symptoms indicates arsenic poisoning. The characteristic garlic odor and white nail bands is the classic sign of arsenic. \n\nArsenic was available to the apothecary. The victim in",
+        "a3": "Mr. Sable"
       },
       {
         "id": 16,
         "q1": false,
         "q2": true,
         "q3": false,
-        "a1": "By forensic deduction, the culprit had access to a firearm.",
-        "a2": "This symptom indicates morphine poisoning. A physician can obtain it legally.",
-        "a3": "Mr. Crane"
+        "a1": "By the forensic deduction that blood spatter reached the top of the wall, it is true that the culprit was likely using a high-pressure weapon such as a shotgun. Shotgun pellets have a wide spread and",
+        "a2": "This symptom indicates morphine poisoning. Morphine is available to the physician. Morphine is a strong analgesic and is primarily used to relieve severe pain. The physician can obtain morphine through a",
+        "a3": "Mr. Pike"
       },
       {
         "id": 18,
         "q1": false,
         "q2": true,
         "q3": false,
-        "a1": "By forensic deduction, the culprit had arsenic on their hands. This information can be obtained from a poison morphine kit.",
-        "a2": "This symptom indicates morphine poisoning. A physician can obtain it legally.",
-        "a3": "Mr. Thorne"
+        "a1": "By forensic deduction, the culprit likely used a key to open the safe. The absence of any damage indicates that the safe remained intact. Therefore, the culprit must have had a key to the safe.",
+        "a2": "This symptom indicates morphine poisoning. Morphine is available to the physician. Morphine is a strong analgesic and is primarily used to relieve severe pain. The physician can obtain morphine through a",
+        "a3": "Mr. Pike"
       },
       {
         "id": 19,
         "q1": false,
         "q2": true,
         "q3": false,
-        "a1": "The culprit is a veterinarian.",
-        "a2": "This symptom indicates morphine poisoning. A physician can obtain it legally.",
-        "a3": "veterinarian"
+        "a1": "By the deep size-twelve footprints left in the flowerbed, we can deduce that the culprit is likely a large person. Specifically, someone with a foot size of twelve would have extremely large",
+        "a2": "This symptom indicates morphine poisoning. Morphine is available to the physician. Morphine is a strong analgesic and is primarily used to relieve severe pain. The physician can obtain morphine through a",
+        "a3": "Mr. Hale"
+      },
+      {
+        "id": 26,
+        "q1": false,
+        "q2": true,
+        "q3": false,
+        "a1": "By the forensic deduction that blood spatter reached the top of the wall, it is true that the culprit was likely using a high-pressure weapon such as a shotgun. Shotgun pellets have a wide spread and",
+        "a2": "This symptomology indicates belladonna poisoning. Belladonna is available to the herbalist. The symptoms of belladonna include widely dilated pupils and dry, flushed skin. This is because bell",
+        "a3": "Mr. Hale"
+      },
+      {
+        "id": 28,
+        "q1": false,
+        "q2": true,
+        "q3": true,
+        "a1": "By forensic deduction, the culprit likely used a key to open the safe. The absence of any damage indicates that the safe remained intact. Therefore, the culprit must have had a key to the safe.",
+        "a2": "This symptomology indicates belladonna poisoning. Belladonna is available to the herbalist. The symptoms of belladonna include widely dilated pupils and dry, flushed skin. This is because bell",
+        "a3": "Mrs. Frost"
+      },
+      {
+        "id": 29,
+        "q1": false,
+        "q2": true,
+        "q3": false,
+        "a1": "By the deep size-twelve footprints left in the flowerbed, we can deduce that the culprit is likely a large person. Specifically, someone with a foot size of twelve would have extremely large",
+        "a2": "This symptomology indicates belladonna poisoning. Belladonna is available to the herbalist. The symptoms of belladonna include widely dilated pupils and dry, flushed skin. This is because bell",
+        "a3": "Mr. Pike"
       }
     ]
   },
@@ -273,178 +435,286 @@
     "config": "AGENTIC (route to medic)",
     "Q1": 1.0,
     "Q2": 1.0,
-    "Q3": 0.0,
-    "full": 0.0,
+    "Q3": 0.6,
+    "full": 0.6,
     "rows": [
       {
         "id": 1,
         "q1": true,
         "q2": true,
         "q3": false,
-        "a1": "The culprit is unusually tall.",
-        "a2": "This symptom is caused by carbon monoxide. Carbon monoxide is commonly obtained by the mechanic.",
-        "a3": "Mr. Pike"
+        "a1": "By the clue that blood spatter reached the top of the wall, it indicates the culprit is unusually tall or has reached that height by climbing. This suggests the individual is significantly taller than average, or",
+        "a2": "This symptom indicates carbon monoxide poisoning. Carbon monoxide is produced by faulty car engines and is accessible mainly to mechanics and auto enthusiasts. Carbon monoxide gives a characteristic rose-brown color to the nail",
+        "a3": "Mr. Voss"
       },
       {
         "id": 3,
         "q1": true,
         "q2": true,
         "q3": false,
-        "a1": "The safe was opened without any damage means the culprit knew the combination or had the key. Therefore, the culprit either memorized the combination or has the key. The correct answer is that the culprit knows",
-        "a2": "This symptom is caused by carbon monoxide. Carbon monoxide is commonly obtained by the mechanic.",
+        "a1": "If the safe was opened without any damage, it indicates that the culprit knew the combination or had the key. This means they either had the combination memorized or had access to the key. Here are",
+        "a2": "This symptom indicates carbon monoxide poisoning. Carbon monoxide is produced by faulty car engines and is accessible mainly to mechanics and auto enthusiasts. Carbon monoxide gives a characteristic rose-brown color to the nail",
         "a3": "Mr. Crane"
       },
       {
         "id": 4,
         "q1": true,
         "q2": true,
-        "q3": false,
-        "a1": "The culprit is heavy-set or has unusually large feet. The culprit is either very tall or has exceptionally long legs. The culprit weighs significantly more than average. The culprit is unusually strong for their body type",
-        "a2": "This symptom is caused by carbon monoxide. Carbon monoxide is commonly obtained by the mechanic.",
-        "a3": "Mr. Thorne"
+        "q3": true,
+        "a1": "By the clue that deep size-twelve footprints were left in the flowerbed, we can infer several things about the culprit:\n\n1. The culprit is likely heavy-set or has a large build.",
+        "a2": "This symptom indicates carbon monoxide poisoning. Carbon monoxide is produced by faulty car engines and is accessible mainly to mechanics and auto enthusiasts. Carbon monoxide gives a characteristic rose-brown color to the nail",
+        "a3": "Mr. Hale"
       },
       {
         "id": 6,
         "q1": true,
         "q2": true,
         "q3": false,
-        "a1": "The culprit is unusually tall.",
-        "a2": "This symptom indicates cyanide poisoning. Cyanide is commonly available to the photographer.",
+        "a1": "By the clue that blood spatter reached the top of the wall, it indicates the culprit is unusually tall or has reached that height by climbing. This suggests the individual is significantly taller than average, or",
+        "a2": "This symptom indicates cyanide poisoning. Cyanide is commonly found in the photography lab. The photographer could obtain cyanide for developing photographs. \n\nTo recap: cyanide produces a bitter-almond odor on",
         "a3": "Mr. Sable"
       },
       {
         "id": 8,
         "q1": true,
         "q2": true,
-        "q3": false,
-        "a1": "The safe was opened without any damage means the culprit knew the combination or had the key. Therefore, the culprit either memorized the combination or has the key. The correct answer is that the culprit knows",
-        "a2": "This symptom indicates cyanide poisoning. Cyanide is commonly available to the photographer.",
-        "a3": "Mr. Thorne"
+        "q3": true,
+        "a1": "If the safe was opened without any damage, it indicates that the culprit knew the combination or had the key. This means they either had the combination memorized or had access to the key. Here are",
+        "a2": "This symptom indicates cyanide poisoning. Cyanide is commonly found in the photography lab. The photographer could obtain cyanide for developing photographs. \n\nTo recap: cyanide produces a bitter-almond odor on",
+        "a3": "Mr. Pike"
       },
       {
         "id": 9,
         "q1": true,
         "q2": true,
         "q3": false,
-        "a1": "The culprit is heavy-set or has unusually large feet. The culprit is either very tall or has exceptionally long legs. The culprit weighs significantly more than average. The culprit is unusually strong for their body type",
-        "a2": "This symptom indicates cyanide poisoning. Cyanide is commonly available to the photographer.",
+        "a1": "By the clue that deep size-twelve footprints were left in the flowerbed, we can infer several things about the culprit:\n\n1. The culprit is likely heavy-set or has a large build.",
+        "a2": "This symptom indicates cyanide poisoning. Cyanide is commonly found in the photography lab. The photographer could obtain cyanide for developing photographs. \n\nTo recap: cyanide produces a bitter-almond odor on",
+        "a3": "Mr. Beck"
+      },
+      {
+        "id": 11,
+        "q1": true,
+        "q2": true,
+        "q3": true,
+        "a1": "By the clue that blood spatter reached the top of the wall, it indicates the culprit is unusually tall or has reached that height by climbing. This suggests the individual is significantly taller than average, or",
+        "a2": "This combination of symptoms indicates arsenic poisoning. The characteristic garlic odor and white nail bands is the classic sign of arsenic. \n\nArsenic was available to the apothecary. The victim in",
+        "a3": "Mr. Hale"
+      },
+      {
+        "id": 13,
+        "q1": true,
+        "q2": true,
+        "q3": false,
+        "a1": "If the safe was opened without any damage, it indicates that the culprit knew the combination or had the key. This means they either had the combination memorized or had access to the key. Here are",
+        "a2": "This combination of symptoms indicates arsenic poisoning. The characteristic garlic odor and white nail bands is the classic sign of arsenic. \n\nArsenic was available to the apothecary. The victim in",
         "a3": "Mr. Thorne"
+      },
+      {
+        "id": 14,
+        "q1": true,
+        "q2": true,
+        "q3": true,
+        "a1": "By the clue that deep size-twelve footprints were left in the flowerbed, we can infer several things about the culprit:\n\n1. The culprit is likely heavy-set or has a large build.",
+        "a2": "This combination of symptoms indicates arsenic poisoning. The characteristic garlic odor and white nail bands is the classic sign of arsenic. \n\nArsenic was available to the apothecary. The victim in",
+        "a3": "Mrs. Frost"
       },
       {
         "id": 16,
         "q1": true,
         "q2": true,
-        "q3": false,
-        "a1": "The culprit is unusually tall.",
-        "a2": "This symptom indicates morphine poisoning. A physician can obtain it legally.",
-        "a3": "Mr. Pike"
+        "q3": true,
+        "a1": "By the clue that blood spatter reached the top of the wall, it indicates the culprit is unusually tall or has reached that height by climbing. This suggests the individual is significantly taller than average, or",
+        "a2": "This symptom indicates morphine poisoning. Morphine is available to the physician. Morphine is a strong analgesic and is primarily used to relieve severe pain. The physician can obtain morphine through a",
+        "a3": "Ms. Wynn"
       },
       {
         "id": 18,
         "q1": true,
         "q2": true,
         "q3": false,
-        "a1": "The safe was opened without any damage means the culprit knew the combination or had the key. Therefore, the culprit either memorized the combination or has the key. The correct answer is that the culprit knows",
-        "a2": "This symptom indicates morphine poisoning. A physician can obtain it legally.",
-        "a3": "Mr. Thorne"
+        "a1": "If the safe was opened without any damage, it indicates that the culprit knew the combination or had the key. This means they either had the combination memorized or had access to the key. Here are",
+        "a2": "This symptom indicates morphine poisoning. Morphine is available to the physician. Morphine is a strong analgesic and is primarily used to relieve severe pain. The physician can obtain morphine through a",
+        "a3": "Mr. Pike"
       },
       {
         "id": 19,
         "q1": true,
         "q2": true,
-        "q3": false,
-        "a1": "The culprit is heavy-set or has unusually large feet. The culprit is either very tall or has exceptionally long legs. The culprit weighs significantly more than average. The culprit is unusually strong for their body type",
-        "a2": "This symptom indicates morphine poisoning. A physician can obtain it legally.",
-        "a3": "Mr. Voss"
+        "q3": true,
+        "a1": "By the clue that deep size-twelve footprints were left in the flowerbed, we can infer several things about the culprit:\n\n1. The culprit is likely heavy-set or has a large build.",
+        "a2": "This symptom indicates morphine poisoning. Morphine is available to the physician. Morphine is a strong analgesic and is primarily used to relieve severe pain. The physician can obtain morphine through a",
+        "a3": "Ms. Orr"
+      },
+      {
+        "id": 26,
+        "q1": true,
+        "q2": true,
+        "q3": true,
+        "a1": "By the clue that blood spatter reached the top of the wall, it indicates the culprit is unusually tall or has reached that height by climbing. This suggests the individual is significantly taller than average, or",
+        "a2": "This symptomology indicates belladonna poisoning. Belladonna is available to the herbalist. The symptoms of belladonna include widely dilated pupils and dry, flushed skin. This is because bell",
+        "a3": "Mrs. Vale"
+      },
+      {
+        "id": 28,
+        "q1": true,
+        "q2": true,
+        "q3": true,
+        "a1": "If the safe was opened without any damage, it indicates that the culprit knew the combination or had the key. This means they either had the combination memorized or had access to the key. Here are",
+        "a2": "This symptomology indicates belladonna poisoning. Belladonna is available to the herbalist. The symptoms of belladonna include widely dilated pupils and dry, flushed skin. This is because bell",
+        "a3": "Mrs. Frost"
+      },
+      {
+        "id": 29,
+        "q1": true,
+        "q2": true,
+        "q3": true,
+        "a1": "By the clue that deep size-twelve footprints were left in the flowerbed, we can infer several things about the culprit:\n\n1. The culprit is likely heavy-set or has a large build.",
+        "a2": "This symptomology indicates belladonna poisoning. Belladonna is available to the herbalist. The symptoms of belladonna include widely dilated pupils and dry, flushed skin. This is because bell",
+        "a3": "Ms. Wynn"
       }
     ]
   },
   {
     "config": "MERGED-ties (1 model)",
     "Q1": 0.6666666666666666,
-    "Q2": 0.3333333333333333,
-    "Q3": 0.0,
-    "full": 0.0,
+    "Q2": 0.2,
+    "Q3": 0.2,
+    "full": 0.06666666666666667,
     "rows": [
       {
         "id": 1,
         "q1": true,
         "q2": false,
         "q3": false,
-        "a1": "The fact that the blood spatter reached the top of the wall indicates that the culprit is unusually tall or has superhuman height. This means the culprit is at least 6 feet (183",
-        "a2": "This symptom indicates that the victim has been poisoned by carbon monoxide. Carbon monoxide is an odorless, colorless gas that can be produced by faulty fuel-burning appliances such as furnaces,",
-        "a3": "Mr. Thorne"
+        "a1": "By the clue of blood spatter reaching the top of the wall, it indicates that the culprit is unusually tall. This suggests they have great upper body strength and can reach high areas easily. Forensic",
+        "a2": "The symptoms of cherry-red skin and lividity indicate carbon monoxide poisoning. Carbon monoxide is a colorless and odorless gas that can be produced by malfunctioning internal combustion engines, such as car",
+        "a3": "Mr. Pike"
       },
       {
         "id": 3,
         "q1": true,
         "q2": false,
         "q3": false,
-        "a1": "The safe was opened without any damage, which means the culprit had access to the key or knew the combination. Therefore, the culprit either had the key or memorized the combination.",
-        "a2": "This symptom indicates that the victim has been poisoned by carbon monoxide. Carbon monoxide is an odorless, colorless gas that can be produced by faulty fuel-burning appliances such as furnaces,",
-        "a3": "Mr. Crane"
+        "a1": "By the clue that the safe was opened without any damage, we can infer that the culprit knew the combination or had the key to the safe. This indicates that the culprit had access to the safe's",
+        "a2": "The symptoms of cherry-red skin and lividity indicate carbon monoxide poisoning. Carbon monoxide is a colorless and odorless gas that can be produced by malfunctioning internal combustion engines, such as car",
+        "a3": "Mr. Beck"
       },
       {
         "id": 4,
         "q1": false,
         "q2": false,
-        "q3": false,
-        "a1": "The deep size-twelve footprints indicate that the culprit is a large person. Therefore, the culprit is likely to be an adult.",
-        "a2": "This symptom indicates that the victim has been poisoned by carbon monoxide. Carbon monoxide is an odorless, colorless gas that can be produced by faulty fuel-burning appliances such as furnaces,",
-        "a3": "Mr. Thorne"
+        "q3": true,
+        "a1": "By analyzing the clue provided, we can deduce several things about the culprit:\n\n1. The culprit is male, as women typically do not wear size-twelve shoes.\n2. The culprit has strong",
+        "a2": "The symptoms of cherry-red skin and lividity indicate carbon monoxide poisoning. Carbon monoxide is a colorless and odorless gas that can be produced by malfunctioning internal combustion engines, such as car",
+        "a3": "Mr. Hale"
       },
       {
         "id": 6,
         "q1": true,
-        "q2": false,
+        "q2": true,
         "q3": false,
-        "a1": "The fact that the blood spatter reached the top of the wall indicates that the culprit is unusually tall or has superhuman height. This means the culprit is at least 6 feet (183",
-        "a2": "The bitter-almond smell on the breath indicates that the victim has consumed prussic acid, also known as hydrocyanic acid. This toxin can be obtained from certain plants such as cherry pits or",
+        "a1": "By the clue of blood spatter reaching the top of the wall, it indicates that the culprit is unusually tall. This suggests they have great upper body strength and can reach high areas easily. Forensic",
+        "a2": "A bitter-almond odor on the breath indicates poisoning by cyanide. Cyanide is commonly used by photographers as a developing agent in their darkrooms. Therefore, the poison in question is cyanide,",
         "a3": "Mr. Sable"
       },
       {
         "id": 8,
         "q1": true,
-        "q2": false,
-        "q3": false,
-        "a1": "The safe was opened without any damage, which means the culprit had access to the key or knew the combination. Therefore, the culprit either had the key or memorized the combination.",
-        "a2": "The bitter-almond smell on the breath indicates that the victim has consumed prussic acid, also known as hydrocyanic acid. This toxin can be obtained from certain plants such as cherry pits or",
-        "a3": "Mr. Thorne"
+        "q2": true,
+        "q3": true,
+        "a1": "By the clue that the safe was opened without any damage, we can infer that the culprit knew the combination or had the key to the safe. This indicates that the culprit had access to the safe's",
+        "a2": "A bitter-almond odor on the breath indicates poisoning by cyanide. Cyanide is commonly used by photographers as a developing agent in their darkrooms. Therefore, the poison in question is cyanide,",
+        "a3": "Mr. Pike"
       },
       {
         "id": 9,
         "q1": false,
+        "q2": true,
+        "q3": false,
+        "a1": "By analyzing the clue provided, we can deduce several things about the culprit:\n\n1. The culprit is male, as women typically do not wear size-twelve shoes.\n2. The culprit has strong",
+        "a2": "A bitter-almond odor on the breath indicates poisoning by cyanide. Cyanide is commonly used by photographers as a developing agent in their darkrooms. Therefore, the poison in question is cyanide,",
+        "a3": "Mr. Sable"
+      },
+      {
+        "id": 11,
+        "q1": true,
+        "q2": false,
+        "q3": true,
+        "a1": "By the clue of blood spatter reaching the top of the wall, it indicates that the culprit is unusually tall. This suggests they have great upper body strength and can reach high areas easily. Forensic",
+        "a2": "The symptoms described—garlic odor and white nail bands—indicate the poison arsenic. Arsenic poisoning causes a distinctive garlic odor on the breath and white nail bands. \n\nArsenic was",
+        "a3": "Mr. Hale"
+      },
+      {
+        "id": 13,
+        "q1": true,
         "q2": false,
         "q3": false,
-        "a1": "The deep size-twelve footprints indicate that the culprit is a large person. Therefore, the culprit is likely to be an adult.",
-        "a2": "The bitter-almond smell on the breath indicates that the victim has consumed prussic acid, also known as hydrocyanic acid. This toxin can be obtained from certain plants such as cherry pits or",
-        "a3": "Mr. Thorne"
+        "a1": "By the clue that the safe was opened without any damage, we can infer that the culprit knew the combination or had the key to the safe. This indicates that the culprit had access to the safe's",
+        "a2": "The symptoms described—garlic odor and white nail bands—indicate the poison arsenic. Arsenic poisoning causes a distinctive garlic odor on the breath and white nail bands. \n\nArsenic was",
+        "a3": "Ms. Wynn"
+      },
+      {
+        "id": 14,
+        "q1": false,
+        "q2": false,
+        "q3": false,
+        "a1": "By analyzing the clue provided, we can deduce several things about the culprit:\n\n1. The culprit is male, as women typically do not wear size-twelve shoes.\n2. The culprit has strong",
+        "a2": "The symptoms described—garlic odor and white nail bands—indicate the poison arsenic. Arsenic poisoning causes a distinctive garlic odor on the breath and white nail bands. \n\nArsenic was",
+        "a3": "Mr. Beck"
       },
       {
         "id": 16,
         "q1": true,
-        "q2": true,
+        "q2": false,
         "q3": false,
-        "a1": "The fact that the blood spatter reached the top of the wall indicates that the culprit is unusually tall or has superhuman height. This means the culprit is at least 6 feet (183",
-        "a2": "A victim with pinpoint (constricted) pupils has seen morphine. Morphine can be obtained from a physician or pharmacist.",
+        "a1": "By the clue of blood spatter reaching the top of the wall, it indicates that the culprit is unusually tall. This suggests they have great upper body strength and can reach high areas easily. Forensic",
+        "a2": "A victim showing pinpoint (constricted) pupils indicates the use of atropine or an atropine-like substance. Atropine causes the pupils to constrict, so its opposite effect—wid",
         "a3": "Mr. Sable"
       },
       {
         "id": 18,
         "q1": true,
-        "q2": true,
+        "q2": false,
         "q3": false,
-        "a1": "The safe was opened without any damage, which means the culprit had access to the key or knew the combination. Therefore, the culprit either had the key or memorized the combination.",
-        "a2": "A victim with pinpoint (constricted) pupils has seen morphine. Morphine can be obtained from a physician or pharmacist.",
-        "a3": "Mr. Beck"
+        "a1": "By the clue that the safe was opened without any damage, we can infer that the culprit knew the combination or had the key to the safe. This indicates that the culprit had access to the safe's",
+        "a2": "A victim showing pinpoint (constricted) pupils indicates the use of atropine or an atropine-like substance. Atropine causes the pupils to constrict, so its opposite effect—wid",
+        "a3": "Mr. Crane"
       },
       {
         "id": 19,
         "q1": false,
-        "q2": true,
+        "q2": false,
         "q3": false,
-        "a1": "The deep size-twelve footprints indicate that the culprit is a large person. Therefore, the culprit is likely to be an adult.",
-        "a2": "A victim with pinpoint (constricted) pupils has seen morphine. Morphine can be obtained from a physician or pharmacist.",
+        "a1": "By analyzing the clue provided, we can deduce several things about the culprit:\n\n1. The culprit is male, as women typically do not wear size-twelve shoes.\n2. The culprit has strong",
+        "a2": "A victim showing pinpoint (constricted) pupils indicates the use of atropine or an atropine-like substance. Atropine causes the pupils to constrict, so its opposite effect—wid",
+        "a3": "Mr. Hale"
+      },
+      {
+        "id": 26,
+        "q1": true,
+        "q2": false,
+        "q3": false,
+        "a1": "By the clue of blood spatter reaching the top of the wall, it indicates that the culprit is unusually tall. This suggests they have great upper body strength and can reach high areas easily. Forensic",
+        "a2": "The symptoms described—widely dilated pupils and dry flushed skin—indicate the use of belladonna. Belladonna contains atropine, which causes these effects. Atropine is",
+        "a3": "Ms. Reed"
+      },
+      {
+        "id": 28,
+        "q1": true,
+        "q2": false,
+        "q3": false,
+        "a1": "By the clue that the safe was opened without any damage, we can infer that the culprit knew the combination or had the key to the safe. This indicates that the culprit had access to the safe's",
+        "a2": "The symptoms described—widely dilated pupils and dry flushed skin—indicate the use of belladonna. Belladonna contains atropine, which causes these effects. Atropine is",
+        "a3": "Mr. Crane"
+      },
+      {
+        "id": 29,
+        "q1": false,
+        "q2": false,
+        "q3": false,
+        "a1": "By analyzing the clue provided, we can deduce several things about the culprit:\n\n1. The culprit is male, as women typically do not wear size-twelve shoes.\n2. The culprit has strong",
+        "a2": "The symptoms described—widely dilated pupils and dry flushed skin—indicate the use of belladonna. Belladonna contains atropine, which causes these effects. Atropine is",
         "a3": "Mr. Voss"
       }
     ]
@@ -452,8 +722,8 @@
   {
     "config": "MERGED-linear (1 model)",
     "Q1": 0.3333333333333333,
-    "Q2": 0.3333333333333333,
-    "Q3": 0.2222222222222222,
+    "Q2": 0.0,
+    "Q3": 0.13333333333333333,
     "full": 0.0,
     "rows": [
       {
@@ -461,8 +731,8 @@
         "q1": true,
         "q2": false,
         "q3": false,
-        "a1": "The fact that the blood spatter reached the top of the wall indicates that the culprit is unusually tall or has superhuman height and strength. This means they can climb high without leaving any visible footprints",
-        "a2": "This symptom indicates that the victim has been poisoned by carbon monoxide. Carbon monoxide is an odorless, colorless gas that can be obtained through various means such as faulty heating systems or car exhaust",
+        "a1": "By the clue that blood spatter reached the top of the wall, it suggests that the culprit is unusually tall or has exceptional upper body strength. This indicates that the individual can reach high areas easily,",
+        "a2": "The symptoms of cherry-red skin and lividity indicate carbon monoxide poisoning. Carbon monoxide is a colorless, odorless gas that can be produced by malfunctioning internal combustion engines, such as those",
         "a3": "Mr. Pike"
       },
       {
@@ -470,26 +740,26 @@
         "q1": false,
         "q2": false,
         "q3": false,
-        "a1": "The culprit had access to the key.",
-        "a2": "This symptom indicates that the victim has been poisoned by carbon monoxide. Carbon monoxide is an odorless, colorless gas that can be obtained through various means such as faulty heating systems or car exhaust",
+        "a1": "By the clue that the safe was opened without any damage, it suggests that the culprit had the knowledge and ability to pick or override the lock. This implies that the culprit was either an expert lock picker",
+        "a2": "The symptoms of cherry-red skin and lividity indicate carbon monoxide poisoning. Carbon monoxide is a colorless, odorless gas that can be produced by malfunctioning internal combustion engines, such as those",
         "a3": "Mr. Crane"
       },
       {
         "id": 4,
         "q1": false,
         "q2": false,
-        "q3": true,
-        "a1": "The culprit is a large person. The deep size-twelve footprints indicate that the culprit is at least six feet tall and weighs significantly more than an average-sized human.",
-        "a2": "This symptom indicates that the victim has been poisoned by carbon monoxide. Carbon monoxide is an odorless, colorless gas that can be obtained through various means such as faulty heating systems or car exhaust",
-        "a3": "Mr. Hale"
+        "q3": false,
+        "a1": "By the deep size-twelve footprints left in the flowerbed, we can infer that the culprit is likely wearing size-twelve shoes. This clue suggests the culprit has a large foot and prefers to",
+        "a2": "The symptoms of cherry-red skin and lividity indicate carbon monoxide poisoning. Carbon monoxide is a colorless, odorless gas that can be produced by malfunctioning internal combustion engines, such as those",
+        "a3": "Mr. Pike"
       },
       {
         "id": 6,
         "q1": true,
         "q2": false,
         "q3": false,
-        "a1": "The fact that the blood spatter reached the top of the wall indicates that the culprit is unusually tall or has superhuman height and strength. This means they can climb high without leaving any visible footprints",
-        "a2": "The bitter-almond odor on the breath indicates that the victim has consumed prussic acid, also known as hydrocyanic acid. This toxin can be obtained from certain plants or through chemical means.",
+        "a1": "By the clue that blood spatter reached the top of the wall, it suggests that the culprit is unusually tall or has exceptional upper body strength. This indicates that the individual can reach high areas easily,",
+        "a2": "A bitter-almond odor on the breath indicates cyanide poisoning. Cyanide is commonly used in industrial processes, particularly in the production of electroplate silver and gold. It is also found in some fireworks",
         "a3": "Mr. Sable"
       },
       {
@@ -497,45 +767,99 @@
         "q1": false,
         "q2": false,
         "q3": false,
-        "a1": "The culprit had access to the key.",
-        "a2": "The bitter-almond odor on the breath indicates that the victim has consumed prussic acid, also known as hydrocyanic acid. This toxin can be obtained from certain plants or through chemical means.",
-        "a3": "Mr. Thorne"
+        "a1": "By the clue that the safe was opened without any damage, it suggests that the culprit had the knowledge and ability to pick or override the lock. This implies that the culprit was either an expert lock picker",
+        "a2": "A bitter-almond odor on the breath indicates cyanide poisoning. Cyanide is commonly used in industrial processes, particularly in the production of electroplate silver and gold. It is also found in some fireworks",
+        "a3": "Mr. Voss"
       },
       {
         "id": 9,
         "q1": false,
         "q2": false,
         "q3": false,
-        "a1": "The culprit is a large person. The deep size-twelve footprints indicate that the culprit is at least six feet tall and weighs significantly more than an average-sized human.",
-        "a2": "The bitter-almond odor on the breath indicates that the victim has consumed prussic acid, also known as hydrocyanic acid. This toxin can be obtained from certain plants or through chemical means.",
-        "a3": "Mr. Thorne"
+        "a1": "By the deep size-twelve footprints left in the flowerbed, we can infer that the culprit is likely wearing size-twelve shoes. This clue suggests the culprit has a large foot and prefers to",
+        "a2": "A bitter-almond odor on the breath indicates cyanide poisoning. Cyanide is commonly used in industrial processes, particularly in the production of electroplate silver and gold. It is also found in some fireworks",
+        "a3": "Mr. Beck"
+      },
+      {
+        "id": 11,
+        "q1": true,
+        "q2": false,
+        "q3": true,
+        "a1": "By the clue that blood spatter reached the top of the wall, it suggests that the culprit is unusually tall or has exceptional upper body strength. This indicates that the individual can reach high areas easily,",
+        "a2": "The symptoms described—garlic odor and white nail bands—are classic signs of arsenic poisoning. Arsenic was commonly used as a pesticide in agriculture. Farmers who use arsenic-based pesticides would be",
+        "a3": "Mr. Hale"
+      },
+      {
+        "id": 13,
+        "q1": false,
+        "q2": false,
+        "q3": true,
+        "a1": "By the clue that the safe was opened without any damage, it suggests that the culprit had the knowledge and ability to pick or override the lock. This implies that the culprit was either an expert lock picker",
+        "a2": "The symptoms described—garlic odor and white nail bands—are classic signs of arsenic poisoning. Arsenic was commonly used as a pesticide in agriculture. Farmers who use arsenic-based pesticides would be",
+        "a3": "Mr. Beck"
+      },
+      {
+        "id": 14,
+        "q1": false,
+        "q2": false,
+        "q3": false,
+        "a1": "By the deep size-twelve footprints left in the flowerbed, we can infer that the culprit is likely wearing size-twelve shoes. This clue suggests the culprit has a large foot and prefers to",
+        "a2": "The symptoms described—garlic odor and white nail bands—are classic signs of arsenic poisoning. Arsenic was commonly used as a pesticide in agriculture. Farmers who use arsenic-based pesticides would be",
+        "a3": "Mr. Sable"
       },
       {
         "id": 16,
         "q1": true,
-        "q2": true,
+        "q2": false,
         "q3": false,
-        "a1": "The fact that the blood spatter reached the top of the wall indicates that the culprit is unusually tall or has superhuman height and strength. This means they can climb high without leaving any visible footprints",
-        "a2": "The victim's constricted pupils indicate that they have been exposed to morphine. Morphine is typically obtained by medical professionals for pain management. The culprit in this case was the physician who administered the medication",
-        "a3": "Mr. Crane"
+        "a1": "By the clue that blood spatter reached the top of the wall, it suggests that the culprit is unusually tall or has exceptional upper body strength. This indicates that the individual can reach high areas easily,",
+        "a2": "A victim with pinpoint (constricted) pupils is likely to have consumed atropine. Atropine is an anticholinergic drug that causes the pupils to constrict. It is typically used",
+        "a3": "Mr. Sable"
       },
       {
         "id": 18,
         "q1": false,
-        "q2": true,
-        "q3": true,
-        "a1": "The culprit had access to the key.",
-        "a2": "The victim's constricted pupils indicate that they have been exposed to morphine. Morphine is typically obtained by medical professionals for pain management. The culprit in this case was the physician who administered the medication",
-        "a3": "Mr. Hale"
+        "q2": false,
+        "q3": false,
+        "a1": "By the clue that the safe was opened without any damage, it suggests that the culprit had the knowledge and ability to pick or override the lock. This implies that the culprit was either an expert lock picker",
+        "a2": "A victim with pinpoint (constricted) pupils is likely to have consumed atropine. Atropine is an anticholinergic drug that causes the pupils to constrict. It is typically used",
+        "a3": "Mr. Crane"
       },
       {
         "id": 19,
         "q1": false,
-        "q2": true,
+        "q2": false,
         "q3": false,
-        "a1": "The culprit is a large person. The deep size-twelve footprints indicate that the culprit is at least six feet tall and weighs significantly more than an average-sized human.",
-        "a2": "The victim's constricted pupils indicate that they have been exposed to morphine. Morphine is typically obtained by medical professionals for pain management. The culprit in this case was the physician who administered the medication",
+        "a1": "By the deep size-twelve footprints left in the flowerbed, we can infer that the culprit is likely wearing size-twelve shoes. This clue suggests the culprit has a large foot and prefers to",
+        "a2": "A victim with pinpoint (constricted) pupils is likely to have consumed atropine. Atropine is an anticholinergic drug that causes the pupils to constrict. It is typically used",
         "a3": "Mr. Hale"
+      },
+      {
+        "id": 26,
+        "q1": true,
+        "q2": false,
+        "q3": false,
+        "a1": "By the clue that blood spatter reached the top of the wall, it suggests that the culprit is unusually tall or has exceptional upper body strength. This indicates that the individual can reach high areas easily,",
+        "a2": "The symptoms described—widely dilated pupils and dry flushed skin—indicate the use of belladonna (also known as deadly nightshade). Belladonna poisoning typically causes these effects due to",
+        "a3": "Ms. Reed"
+      },
+      {
+        "id": 28,
+        "q1": false,
+        "q2": false,
+        "q3": false,
+        "a1": "By the clue that the safe was opened without any damage, it suggests that the culprit had the knowledge and ability to pick or override the lock. This implies that the culprit was either an expert lock picker",
+        "a2": "The symptoms described—widely dilated pupils and dry flushed skin—indicate the use of belladonna (also known as deadly nightshade). Belladonna poisoning typically causes these effects due to",
+        "a3": "Ms. Orr"
+      },
+      {
+        "id": 29,
+        "q1": false,
+        "q2": false,
+        "q3": false,
+        "a1": "By the deep size-twelve footprints left in the flowerbed, we can infer that the culprit is likely wearing size-twelve shoes. This clue suggests the culprit has a large foot and prefers to",
+        "a2": "The symptoms described—widely dilated pupils and dry flushed skin—indicate the use of belladonna (also known as deadly nightshade). Belladonna poisoning typically causes these effects due to",
+        "a3": "Mr. Voss"
       }
     ]
   }
